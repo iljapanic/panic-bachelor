@@ -2,6 +2,15 @@
 
 Bachelor's project by [Ilja A. Panic](http://iljapanic.me)
 
+## Project roadmap
+
+- do the research
+- write the project
+- hand-in the project
+- add links to books and articles to REAME
+- create GitHub Pages site
+- share to the world
+
 
 ## Table of Contents
 
@@ -36,16 +45,7 @@ Bachelor's project by [Ilja A. Panic](http://iljapanic.me)
 
 
 
-
-## Project roadmap
-
-- do the research
-- write the project
-- hand-in the project
-- add links to books and articles
-- share to the world
-
-
+## License
 
 This bachelor’s project is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
