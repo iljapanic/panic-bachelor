@@ -1,6 +1,6 @@
-## 1. Introduction
+## 1. INTRODUCTION
 
-“[O]verload, clutter, and confusion are not attributes of information, they are failures of design.” (Tufte, 2011 as seen in ????)
+*“[O]verload, clutter, and confusion are not attributes of information, they are failures of design.”* (Tufte, 2011 as seen in ????)
 
 We are drowning in data. People like to talk about information society, but “[m]ost of the technology we call information technology is, in fact, data technology” (Shedroff, 2000, p. 272). Our modern age is characterized by a severe information overload, or rather, a data overload, on both an organizational and individual level (Jones, 2012; Shedroff, 2000). Aware of this bleak state of affairs, magazine and news articles with titles containing buzzwords like Big Data, or Deep Learning, are basically a daily occurrence.
 
@@ -12,6 +12,6 @@ This paper examines the latest approaches to the design of human-centered inform
 
 The traveling is an information-intense industry, and is one of the most impacted by the massive proliferation of the Internet and social media in the last decade (Xiang, & Gretzel, 2010). Therefore, it was chosen as a suitable area of interest for this research. Moreover, the choice was motivated by author’s personal frustration with finding spots populated by locals when travelling, and a long-term intention to design and develop a platform that would mediate a more authentic traveling experience. To guide the investigation, the following research question has been devised:
 
-How to provide travelers with location-based information through harnessing collective knowledge of local residents?
+*How to provide travelers with location-based information through harnessing collective knowledge of local residents?*
 
 The paper starts off by positioning itself in the multidisciplinary field of information management. Then it goes into examining the terminology and concepts used in the analysis, by applying the latest perspectives for the design of human-centered information systems. After that, the methodology and the research design are presented, followed by the analysis itself. The paper concludes with proposing a possible solution to the information problem at hand, and finishes of by summarizing the findings.

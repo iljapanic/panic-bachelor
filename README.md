@@ -3,14 +3,13 @@
 Bachelor's project by [Ilja A. Panic](http://iljapanic.me)
 
 ## Project roadmap
-
-- do the research
-- write the project
-- hand-in the project
-- add links to books and articles to REAME
-- create GitHub Pages site
-- share to the world
-
+- [ ] do the necessary research
+- [ ] write the project in [Markdown](http://daringfireball.net/projects/markdown/)
+- [ ] use [Pandoc](http://pandoc.org) to generate a PDF
+- [ ] hand it the paper
+- [ ] add links to books and articles to REAME
+- [ ] change references to BibTeX format 
+- [ ] create GitHub Pages site
 
 ## Table of Contents
 
