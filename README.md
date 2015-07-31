@@ -6,7 +6,7 @@ Bachelor's project by [Ilja A. Panic](http://iljapanic.me)
 - [ ] do the necessary research
 - [ ] write the project in [Markdown](http://daringfireball.net/projects/markdown/)
 - [ ] use [Pandoc](http://pandoc.org) to generate a PDF
-- [ ] **hand it the paper!!!**
+- [ ] **hand in the paper!!!**
 - [ ] add links to books and articles to REAME
 - [ ] change references to BibTeX format 
 - [ ] create GitHub Pages site
