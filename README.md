@@ -23,7 +23,7 @@ Bachelor's project by [Ilja A. Panic](http://iljapanic.me)
 ### 3 CONCEPTUAL FRAMEWORK
 
 #### 3.1 Terminology goulash
-#### 3.2 From industrial design to information design
+#### 3.2 Design meets information
 #### 3.3 Relevant models
 
 ### 4 METHODOLOGY
