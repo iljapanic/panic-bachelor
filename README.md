@@ -36,6 +36,8 @@ Bachelor's project by [Ilja A. Panic](http://iljapanic.me)
 
 #### 5.2 Information-seeking behavior in travel
 
+#### 5.3 Tapping into wisdom of crowds
+
 ### 6 PROPOSED SOLUTION
 
 ### 7 CONCLUSION

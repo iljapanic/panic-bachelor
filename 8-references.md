@@ -29,6 +29,8 @@ Gócza, Z. (n.d.). Myth #21: People can tell you what they want. Retrieved May 1
 
 Hughes, M. (2002). Moving from Information Transfer to Knowledge Creation: A New Value Proposition for Technical Communicators. Technical Communication, 49(3), 275–285.
 
+IBM Corporation. (2013, October 16). What is big data? Retrieved July 31, 2015, from http://www-01.ibm.com/software/data/bigdata/what-is-big-data.html
+
 Internet Live Stats. (n.d.). Number of Internet Users (2015). Retrieved May 17, 2015, from http://www.internetlivestats.com/internet-users/#trend
 
 Jacobson, R. (2000). *Information Design (1st ed.)*. Cambridge, Massachusetts: MIT Press.

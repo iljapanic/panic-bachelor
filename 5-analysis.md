@@ -4,7 +4,10 @@ As stated in the outset of this paper, the tourism industry is one the most impa
 
 This section starts off with examining current solution to the information problem posed by travelling and then moves onto a close analyses of information seeking behavior in this context.
 
-## 5.1 Current solutions
+{>>identify problem->define objectives for a solution->design and development<<}
+
+
+### 5.1 Current solutions
 
 In this part of the analyses, the current solutions for information seeking support are analyzed. Before moving onto the examination of the individual services, here is a list of abbreviations used in this part of the paper:
 
@@ -16,30 +19,42 @@ In this part of the analyses, the current solutions for information seeking supp
 
 **Paper guidebook (B2T)**
 
-gets outdated quickly
-strong bias (business paying to be featured)
-great source for general info about the country, local culture and manners
+* gets outdated quickly
+* strong bias (business paying to be featured)
+* great source for general info about the country, local culture and manners
 
 
 **TripAdvisor (T2T, B2T)**
 
-feedback systems susceptible to manipulation (Smyth, Wu, & Greene 2010)
-curated by algorithm, which is secretive and non-transparent (Vanderbilt, 2015)
-menu-driven interface
-“loads of info, but no insight” (Vanderbilt, 2015)
-built around businesses, not people
+* feedback systems susceptible to manipulation (Smyth, Wu, & Greene 2010)
+* curated by algorithm, which is secretive and non-transparent (Vanderbilt, 2015)
+* menu-driven interface
+* “loads of info, but no insight” (Vanderbilt, 2015)
+* built around businesses, not people
 
 
 **CouchSurfing (T2L)**
 
-primary happening in the real world, online platform serves only as a mediator before the face-to-face contact with the host is established
-requires a particular worldview
+* primary happening in the real world, online platform serves only as a mediator before the face-to-face contact with the host is established
+* requires a particular worldview
 
 
 ### 5.2 Information-seeking in the travel
 
-humans are still the best curators (human-scale)
-search is a dominant mode of finding information
-search engines (Google Search) are the gatekeepers, and serve as an entry point to other services
-environmental constraints: time of the year, weather, physical access
-economical constrains: budget
+* humans are still the best curators
+* address the human-scale
+* qualitative judgment is handled by IS (algorhytms) not humans (see Cooley 2000, p.66)
+* search is a dominant mode of finding information
+* search engines (Google Search) are the gatekeepers, and serve as an entry point to other services
+* environmental constraints: time of the year, weather, physical access
+* economical constrains: budget
+
+
+### 5.3 Tapping into wisdom of crowds
+
+* trust building in a virtual environment (A12)
+* simplistic model of motivation (B3:92) -> works fairly well for traditional economy not so much information economy
+* social production
+* local residents have implicit knowledge of surroundings
+* commons based peer production like Wikipedia
+
