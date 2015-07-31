@@ -1,0 +1,67 @@
+## 8. References
+
+
+Albers, M. J. (2008). Human-information Interaction. In *Proceedings of the 26th Annual ACM International Conference on Design of Communication* (pp. 117–124). New York, NY: ACM.
+
+Bawden, D., & Robinson, L. (2012). Chapter 9: Information behaviour. In *Introduction to Information Science (1st. ed)*. Chicago: Neal-Schuman Publishers.
+
+Benyon, D. (2001). The new HCI? navigation of information space. Knowledge-Based Systems, 14(8), 425–430.
+
+Choo, C. W. (2002). A Process Model of Information Management. In *Information Management For The Intelligent Organization: The Art Of Scanning The Environment (3rd ed.)*. Medford, NJ: Information Today.
+
+Cooley, M. (2000). Human-Centered Design. In *Information Design*. Cambridge, Massachusetts: The MIT Press.
+
+Crotty, M. J. (1998). The Foundations of Social Research: Meaning and Perspective in the Research Process. SAGE Publications Ltd.
+
+Detlor, B. (2010). Information management. International Journal of Information Management, 30(2), 103–108.
+
+Dorte, M. (2012). New Directions in Information Management Education in Denmark: On the Importance of Partnerships with the Business Community and the Role of Interdisciplinary Theory to Create a Coherent Framework for Information Management. In *Library and Information Science Trends and Research: Europe (Vol. 6, pp. 247–270)*. Emerald Group Publishing Limited.
+			
+eMarketer. (2014a, January 16). Smartphone Users Worldwide Will Total 1.75 Billion in 2014. Retrieved May 17, 2015, from http://www.emarketer.com/Article/Smartphone-Users-Worldwide-Will-Total-175-Billion-2014/1010536
+
+eMarketer. (2014b, December 11). 2 Billion Consumers Worldwide to Get Smart(phones) by 2016. Retrieved May 17, 2015, from http://www.emarketer.com/Article/2-Billion-Consumers-Worldwide-Smartphones-by-2016/1011694
+
+Fidel, R. (2012). Human Information Interaction: An Ecological Approach to Information Behavior. The MIT Press
+
+Fidel, R., Pejtersen, A. M., Cleal, B., & Bruce, H. (2004). A multidimensional approach to the study of human-information interaction: A case study of collaborative information retrieval. Journal of the American Society for Information Science and Technology.
+
+Gócza, Z. (n.d.). Myth #21: People can tell you what they want. Retrieved May 13, 2015, from http://uxmyths.com/post/746610684/myth-21-people-can-tell-you-what-they-want
+
+Hughes, M. (2002). Moving from Information Transfer to Knowledge Creation: A New Value Proposition for Technical Communicators. Technical Communication, 49(3), 275–285.
+
+Internet Live Stats. (n.d.). Number of Internet Users (2015). Retrieved May 17, 2015, from http://www.internetlivestats.com/internet-users/#trend
+
+Jacobson, R. (2000). *Information Design (1st ed.)*. Cambridge, Massachusetts: MIT Press.
+
+Jones, W. (2012). *The future of personal information management, Part I: Our information, always and forever*. San Rafael: Morgan & Claypool Publishers.
+
+
+Jones, W. P., & Teevan, J. (2007). Introduction. In *Personal information management*. Seattle: University of Washington Press.
+
+Myburgh, S. (2005). Chapter 2: What is information work anyway?. In *The New Information Professional: How to Thrive in the Information Age Doing What You Love (1st ed.)*. Oxford: Chandos Publishing.
+
+Naumer, C. M., & Fisher, K. E. (2007). Naturalistic Approaches for Understanding PIM. In *Personal information management*. Seattle: University of Washington Press.
+
+Nonaka, I. (1991). The Knowledge-Creating Company. Harvard Business Review, 69(6), 96–104.
+
+Peffers, K., Rothenberger, M. A., Tuunanen, T., & Chatterjee, S. (2007). A design science research methodology for information systems research. Journal of Management Information Systems, 24(3), 45–77.
+
+Pirolli, P., & Russell, D. M. (2011). Introduction to this special issue on sensemaking. Human-Computer Interaction, 26(1-2), 1–8. 
+
+Schlögl, C. (2005). Information and knowledge management: dimensions and approaches. Information Research: An International Electronic Journal, 10(4), 235.
+
+Shedroff, N. (2000). Information Interaction Design: A Unified Field Theory of Design. In *Information Design*. Cambridge, Massachusetts: The MIT Press.
+
+Smyth, P. C. B., Wu, G., & Greene, D. (2010). Does TripAdvisor Makes Hotels Better? Retrieved from http://www.csi.ucd.ie/files/ucd-csi-2010-06.pdf
+
+Tsoukas, H. (2003). Do we really understand tacit knowledge? In *The Blackwell Handbook of Organizational Learning and Knowledge Management*. London: Blackwell.
+
+Vanderbilt, T. (2015, March 13). Inside the Mad, Mad World of TripAdvisor. Retrieved May 3, 2015, from http://www.outsideonline.com/1960011/inside-mad-mad-world-tripadvisor
+
+Wilson, T. D. (1999). Models in information behaviour research. Journal of Documentation, 55(3), 249–270.
+
+Wilson, T. D. (2000). Human Information Behavior. Informing Science, 3(2), 49–56.
+
+Wilson, T. D. (2006). On user studies and information needs. Journal of Documentation, 62(6), 658–670.
+
+Xiang, Z., & Gretzel, U. (2010). Role of social media in online travel information search. Tourism Management, 31(2), 179–188.
