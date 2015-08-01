@@ -1,4 +1,6 @@
 ## 3. CONCEPTUAL FRAMEWORK
+>*“Overload, clutter, and confusion are not attributes of information, they are failures of design.”*
+><div style="text-align:right">(Tufte, 2011 as seen in ????){++REF++}</div>
 
 This section of the paper aims to improve understanding of the theoretical underpinnings of HII and information design—two young, emerging fields that have roots in more traditional fields of  library and information science (LIS), PIM, HCI, IS design, and design science. Moreover, it serves as a theoretical framework for the analysis presented later on. First, the basic concepts and terminology are examined, as to clarify their meaning for paper’s purposes and to avoid confusion. Next, a brief history of the changing role of the design is presented. The section concludes with conceptual models that have been chosen as relevant for the analysis.
 
@@ -13,7 +15,7 @@ The underlying goal of this paper is to go beyond HCI, which has traditionally b
 The growing realization of the inadequacy of HCI to cope with increasingly information-dense nature of everyday life has lead to an emergence of a new field of HII. This field has marked a “a philosophical shift of privileging the human’s interaction with the information, rather than the human’s interaction with the computer interface” (Albers, 2008, p. 117). This naturalistic view sees technology merely as an enabler, not the point of interest. It moves the human actor from outside to inside an information space in which “people must perceive and interpret the information artefacts so that they can achieve their goals in an activity space.” (Benyon, 2001, p. 429). The focus is on “on people interacting with information and solving problems” (Albers, 2008, p. 118) in an activity space, where their everyday experiences occur. HII strives to uncover how people conceive information, rather than just perceive it (Benyon, 2001). At the end of the day, a “person does not want to use a web-based information system or a computer application; they want to accomplish a real-world goal”  (Albers, 2008, p. 118). The term human information behavior (HIB) is sometimes used to describe essentially the same concept as HII. In this paper, the term HII is preferred, but both can be used interchangeably (Jones, 2012; Jones & Teevan, 2007). The Figure 1 illustrates the multidisciplinary nature of the field. 
 
 <figure>
-	<img src="figures/figure-1.png" alt="Figure-1" title="Figure 1. Fields involved in successful communication of technical information. Adapted from Albers (2008)">
+	<img src="../figures/figure-1.png" alt="Figure-1" title="Figure 1. Fields involved in successful communication of technical information. Adapted from Albers (2008)">
 	<figcaption><b>Figure 1. Fields involved in successful communication of technical information.  Adapted from Albers (2008)</b></figcaption>
 </figure>
 
@@ -37,7 +39,7 @@ Information is a product of human interaction with data and that “part of an i
 In broad terms, knowledge can be described as “that which people know and is accumulated through understanding, interpreting, analysing and making meaning of what is experienced and observed, as well what others have communicated” (Myburgh, 2005, p. 22). It is derived from both data and information and depends on personality and intellect. Therefore, everyone possesses a highly personal unique body of knowledge that resides inside his or her head. There have been attempts to separate knowledge from the human mind to a certain degree. Management studies in particular have grown fond of the notion of the tacit knowledge, popularized by Nonaka (1991). This view argues that an organization can tap into knowledge hidden in the heads of the organizational members by devising appropriate methods and processes to translate tacit knowledge into explicit knowledge that can be communicated to the rest of the organization. This again suggests a rather system-centric view, where knowledge is treated as a commodity to be captured, codified, and seen primarily as an organizational asset. In the tradition of Polanyi (Tsoukas, 2003), this paper treats knowledge as something highly situated and entirely ineffable. It cannot be transmitted, only information about the knowledge can, and “that information can only ever be an incomplete surrogate for the knowledge” (Wilson, 2000, p. 50). When a person interacts with information and uses it to solve a problem or achieve a specific goal, knowledge can also be seen as information in action (Hughes, 2002). The concept of wisdom is beyond the scope of this paper, and it is simply regarded as a highest form of knowledge that has accumulated over a long period and is impossible to communicate.
 
 <figure>
-	<img src="figures/figure-2.gif" alt="Figure-2" title="The Understanding Spectrum. Adapted from Shedroff (2000)">
+	<img src="../figures/figure-2.gif" alt="Figure-2" title="The Understanding Spectrum. Adapted from Shedroff (2000)">
 	<figcaption><b>Figure 2. The Understanding Spectrum. Illustration of the relationships between the key terms. Adapted from Shedroff (2000)</b></figcaption>
 </figure>
 
@@ -47,7 +49,7 @@ In broad terms, knowledge can be described as “that which people know and is a
 Wilson described information behavior as “the totality of human behavior in relation to sources and channels of information, including both active and passive information seeking, and information use” (Wilson, 2000, p. 49). This broad term includes face-to-face communication, as well as a more passive reception of information with no intention to “act on the information given” (Wilson, 2000, p. 49). Research into information behavior has, for a long time, been dominated by an inquiry into the cognitive dimension of human life. Human-information interaction is a cognitive process after all—not a social or physical one. However, this perspective severely underplays, or completely ignores, the role of other dimensions like social or environmental (Fidel et al., 2004). It is therefore necessary to adopt a more multidimensional, ecological approach that also includes the social dimension which “views the human as a person who lives and acts in a certain context, rather than a user of information systems and services” (Fidel, 2012; Fidel et al., 2004). The ecological approach to HII starts with the study of environmental constraints before moving onto the investigation of cognitive constraints. In this view, “interacting with information is a way to overcome an obstacle in solving a problem” (Fidel, 2012, p. 7). The importance of the information itself is downplayed in favor of examining the problem-based and pragmatic nature of the interaction since “most of the time, people are trying to solve problems, to make sense of the world, and to do things, not find information for its own sake” (Bawden, & Robinson, 2012, p. 205). Human processing of information is not seen as a static input-output process, but rather as a continuous act of sense-making which “focuses on how people understand information they receive within their life context, with factors such as the person’s expertise, social position, and situation affecting their understanding” (Fidel, 2012, p. 59). Information behavior as a research area is too broad for the purposes of this paper. A subset of information-seeking behaviour, which is concerned with the information needs, has been chosen as a primary area of research, and is illustrated in Figure 3. Information search behavior is “the ‘micro-level’ of behavior employed by the searcher in interacting with information systems of all kinds” (Wilson, 2000, p. 49). It focuses on the interaction with the system at both the interface and the intellectual level. For the analysis’s purposes it is implicitly contained within the term information-seeking behaviour.
 
 <figure>
-	<img src="figures/figure-3.jpg" alt="Figure-3" title="Figure 3. A nested model of the information seeking and information searching research areas. Adapted and modified from Wilson (1999)">
+	<img src="../figures/figure-3.jpg" alt="Figure-3" title="Figure 3. A nested model of the information seeking and information searching research areas. Adapted and modified from Wilson (1999)">
 	<figcaption><b>Figure 3. A nested model of the information seeking and information searching research areas. Shading added by the author to highlight the area of interest. Adapted and modified from Wilson (1999)</b></figcaption>
 </figure>
 
@@ -58,7 +60,7 @@ Information need is a secondary human need that arises out of more basic, primal
 
 
 <figure>
-	<img src="figures/figure-4.png" alt="Figure-4" title="Figure 4. Wilson’s model of information-seeking behaviour. Adapted from Wilson (1999)">
+	<img src="../figures/figure-4.png" alt="Figure-4" title="Figure 4. Wilson’s model of information-seeking behaviour. Adapted from Wilson (1999)">
 	<figcaption><b>Figure 4. Wilson’s model of information-seeking behaviour. Adapted from Wilson (1999)</b></figcaption>
 </figure>
 
@@ -67,7 +69,7 @@ Much of the study of information-seeking behavior revolves around a single role 
 
 
 <figure>
-	<img src="figures/figure-5.png" alt="Figure-5" title="Figure 5.The context of information seeking. Adapted from Wilson (2006)
+	<img src="../figures/figure-5.png" alt="Figure-5" title="Figure 5.The context of information seeking. Adapted from Wilson (2006)
 ">
 	<figcaption><b>Figure 5.The context of information seeking. Illustrates a variety of overlapping contexts when using a single information system, lettered paths show some of the possible search paths. Adapted from Wilson (2006)
 </b></figcaption>
@@ -79,8 +81,16 @@ Much of the study of information-seeking behavior revolves around a single role 
 There are various terms used to describe a person interacting with an IS. Librarians call such people patrons. In the corporate context they are sometimes referred to as clients. Undoubtedly, the most widely used term is users. “All these terms include only those who actually use a system and ignore potential users who may also benefit from using it” (Fidel, 2012, p. 4). On the other hand, the term actor implies a sense of agency and shifts the focus from the system to the participant, who has an existence outside of the information system. It highlights the importance of HII taking place in a context(s) of activities. Furthermore, this conceptualization forces us to also consider the nonusers, who may be reluctant to use an IS because their information needs have not been satisfied (Fidel, 2012).
 
 ### 3.2 Design meets information
+With the mainstream adoption of the World Wide Web the term designer became strongly associated with a subset of visual design for digital interfaces. However, the term ...
 
-*“[O]verload, clutter, and confusion are not attributes of information, they are failures of design.”* (Tufte, 2011 as seen in ????)
+
+
+After WW2, industrial design was one the first fields to take a more ecological approach to designing and manufacturing tools and products for people, paying close attention to the context of every day use and stressing the importance of proper field research. 
+
+
+- “the continual development of rich interaction techniques and tools to support user’s ability to create and shape external representations of knowledge that ultimately support more effective situation awareness and understanding.”  (Pirolli, & Russell, 2011, p. 2).
+
+
 
 - design with humans as central point of research during the design process roots in industrial design
 - industrial design operating in a more structured environment (A22)
@@ -91,7 +101,6 @@ There are various terms used to describe a person interacting with an IS. Librar
 - design informed by humans not system capabilities (B4: 79)
 - shift from UX and visual design, to information design (A18)
 - challenge menu drivven systems (B4: 66)
-- After WW2, industrial design was one the first fields to take a more ecological approach to designing and manufacturing tools and products for people, paying close attention to the context of every day use and stressing the importance of proper field research. 
 - They worked in a much more stable environment where tools had an obvious purpose and their role was clear. Digital world, the online one in particular, is an ephemeral and ever-changing. 
 -  relying heavily on menu-driven interfaces defined by often arbitrary taxonomies (Cooley, 2000). 
 - “Design is the conscious and intuitive effort to impose meaningful order.” (Papanek, 1984)
@@ -108,7 +117,7 @@ The problem-based nature of the information-seeking behavior fits well with the 
 
 
 <figure>
-	<img src="figures/figure-6.png" alt="Figure-6" title="Figure 6. Dervin’s Sense-Making framework. Adapted from Wilson (1999)">
+	<img src="../figures/figure-6.png" alt="Figure-6" title="Figure 6. Dervin’s Sense-Making framework. Adapted from Wilson (1999)">
 	<figcaption><b>Figure 6. Dervin’s Sense-Making framework modified. Adapted from Wilson (1999)</b></figcaption>
 </figure>
 
@@ -116,7 +125,7 @@ The problem-based nature of the information-seeking behavior fits well with the 
 The first model used in the analysis is the “information needs and seeking” conceptualization as proposed by Wilson (2006), and illustrated in Figure 7. This model will be used to investigate the environmental, socio-psychological, and role-based constraints, and will set the actor in a broader context of travel. Information seeking is seen as a way to satisfy more primal needs.
 
 <figure>
-	<img src="figures/figure-7.jpg" alt="Figure-7" title="Figure 7. Information needs and seeking. Adapted from Wilson (2006)">
+	<img src="../figures/figure-7.jpg" alt="Figure-7" title="Figure 7. Information needs and seeking. Adapted from Wilson (2006)">
 	<figcaption><b>Figure 7. Information needs and seeking. Adapted from Wilson (2006)</b></figcaption>
 </figure>
 
@@ -125,6 +134,6 @@ Second is the “problem solving model of the information seeking and searching 
 
 
 <figure>
-	<img src="figures/figure-8.png" alt="Figure-8" title="Figure 8. A problem solving model of the information seeking and searching process. Adapted from Wilson (1999)">
+	<img src="../figures/figure-8.png" alt="Figure-8" title="Figure 8. A problem solving model of the information seeking and searching process. Adapted from Wilson (1999)">
 	<figcaption><b>Figure 8. A problem solving model of the information seeking and searching process. Adapted from Wilson (1999)</b></figcaption>
 </figure>
