@@ -37,7 +37,6 @@ Jacobson, R. (2000). *Information Design (1st ed.)*. Cambridge, Massachusetts: M
 
 Jones, W. (2012). *The future of personal information management, Part I: Our information, always and forever*. San Rafael: Morgan & Claypool Publishers.
 
-
 Jones, W. P., & Teevan, J. (2007). Introduction. In *Personal information management*. Seattle: University of Washington Press.
 
 Myburgh, S. (2005). Chapter 2: What is information work anyway?. In *The New Information Professional: How to Thrive in the Information Age Doing What You Love (1st ed.)*. Oxford: Chandos Publishing.
@@ -45,6 +44,8 @@ Myburgh, S. (2005). Chapter 2: What is information work anyway?. In *The New Inf
 Naumer, C. M., & Fisher, K. E. (2007). Naturalistic Approaches for Understanding PIM. In *Personal information management*. Seattle: University of Washington Press.
 
 Nonaka, I. (1991). The Knowledge-Creating Company. Harvard Business Review, 69(6), 96–104.
+
+Papanek, V. (1972). Design for the Real World: Human Ecology and Social Change (2nd. ed.). High Holborn, London: Thames & Hudson Ltd.
 
 Peffers, K., Rothenberger, M. A., Tuunanen, T., & Chatterjee, S. (2007). A design science research methodology for information systems research. Journal of Management Information Systems, 24(3), 45–77.
 

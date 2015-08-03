@@ -81,7 +81,19 @@ Much of the study of information-seeking behavior revolves around a single role 
 There are various terms used to describe a person interacting with an IS. Librarians call such people patrons. In the corporate context they are sometimes referred to as clients. Undoubtedly, the most widely used term is users. “All these terms include only those who actually use a system and ignore potential users who may also benefit from using it” (Fidel, 2012, p. 4). On the other hand, the term actor implies a sense of agency and shifts the focus from the system to the participant, who has an existence outside of the information system. It highlights the importance of HII taking place in a context(s) of activities. Furthermore, this conceptualization forces us to also consider the nonusers, who may be reluctant to use an IS because their information needs have not been satisfied (Fidel, 2012).
 
 ### 3.2 Design meets information
-With the mainstream adoption of the World Wide Web the term designer became strongly associated with a subset of visual design for digital interfaces. However, the term ...
+With the rapid adoption of the World Wide Web in the last two decades, the term “designer” became strongly associated with a small subset of digital design. Today, when we say designer, most people think of a person that builds websites, creates screen-based interfaces, and is concerned primarily with the digital medium. However, design as a craft is much older than the Internet culture would lead us to believe. If taken in its broadest sense, design has always been here, and is in one of the most fundamental human activities. In the words of  one of the founding fathers of modern human-centered design:
+
+> All men are designers. All that we do, almost all the time, is design, for design is basic to all human activity. The planning and patterning of any act toward a desired, foreseeable end constitutes the design process. Any attempt to separate design, to make it a thing-by-itself, works counter to the fact that design is the primary underlying matrix of life.
+> <div style="text-align:right">(Papanek, 1979, p. 3){++REF!!!++}</div>
+
+So how do you trace back a history of something, that has no formal beginning, is all around us, all the time, from the very first second we were born? At the one end of the spectrum there is history of art and architecture, and cultural antrholopolgy in general. By looking at the work of Leondardo Da Vinci, Michellangelo and alike, and by studying past cultures we get a holistic insight into the design and the role of humans in the design process at any given period of the history. Second, more pragmatic approach, comes from archaeology, that gives us an insight into more practical nuances of design done by specialized craftsmen and guilds. The study of materials and indigenous building techniques teaches us how people worked around material and technological constraints of the time. 
+
+
+According to Papanek today's designers are victims of tyranny of absolute choice. (p. 49). “When everything becomes possible, when all the limitations are gone, design and art can easily become a never-ending search for novelty, until newness-for-the-sake-of-newness becomes the only measure.”
+
+We can see this all around the Internet community. Be it a preference for using the newest frameworks in the development community ({++ link to frameworks article ++}REF.) or erosion of visual variety through flat design, with its insistence on minimalism and lack of visual gimmicks {++ add links to end of designer, flat UI ++}.
+
+
 
 
 
