@@ -5,9 +5,9 @@ Bachelor's project by [Ilja A. Panic](http://iljapanic.me)
 ## Project roadmap
 - [ x ] do the necessary research
 - [ ] write the project using [Markdown](http://daringfireball.net/projects/markdown/)
-- [ ] use [Pandoc](http://pandoc.org) to generate a PDF
+- [ ] use [Pandoc](http://pandoc.org) or [PubCSS](https://github.com/thomaspark/pubcss/) to generate a PDF
 - [ ] **hand in the paper!!!**
-- [ ] add links to books and articles to REAME
+- [ ] add links to books and articles to README
 - [ ] change references to BibTeX format 
 - [ ] create GitHub Pages site
 
