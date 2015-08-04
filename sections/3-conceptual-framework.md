@@ -117,6 +117,8 @@ We can see this all around the Internet community. Be it a preference for using 
 
 
 
+- "Best Interface is No Interface" - industry calls for more seamless solutions not involving screens. Like Ford "kick" mechanism sensitive to the context of opening a trunk with you hands full of shopping bags.
+
 - The launch of the first Apple iPhone in 2007 marked a beginning of an era of completely “different tactile relationship to information” (http://breakingsmart.com/season-1/introduction-by-marc-andreessen/). Thought touch screens have been around for longer, iPhone pushed the industry to produce 
 
 - “the continual development of rich interaction techniques and tools to support user’s ability to create and shape external representations of knowledge that ultimately support more effective situation awareness and understanding.”  (Pirolli, & Russell, 2011, p. 2).
