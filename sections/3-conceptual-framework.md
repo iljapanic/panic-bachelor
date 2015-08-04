@@ -84,9 +84,31 @@ There are various terms used to describe a person interacting with an IS. Librar
 With the rapid adoption of the World Wide Web in the last two decades, the term “designer” became strongly associated with a small subset of digital design. Today, when we say designer, most people think of a person that builds websites, creates screen-based interfaces, and is concerned primarily with the digital medium. However, design as a craft is much older than the Internet culture would lead us to believe. If taken in its broadest sense, design has always been here, and is in one of the most fundamental human activities. In the words of  one of the founding fathers of modern human-centered design:
 
 > All men are designers. All that we do, almost all the time, is design, for design is basic to all human activity. The planning and patterning of any act toward a desired, foreseeable end constitutes the design process. Any attempt to separate design, to make it a thing-by-itself, works counter to the fact that design is the primary underlying matrix of life.
-> <div style="text-align:right">(Papanek, 1979, p. 3){++REF!!!++}</div>
+> <div style="text-align:right">(Papanek, 1979, p. 3)</div>
 
-So how do you trace back a history of something, that has no formal beginning, is all around us, all the time, from the very first second we were born? At the one end of the spectrum there is history of art and architecture, and cultural antrholopolgy in general. By looking at the work of Leondardo Da Vinci, Michellangelo and alike, and by studying past cultures we get a holistic insight into the design and the role of humans in the design process at any given period of the history. Second, more pragmatic approach, comes from archaeology, that gives us an insight into more practical nuances of design done by specialized craftsmen and guilds. The study of materials and indigenous building techniques teaches us how people worked around material and technological constraints of the time. 
+Design as a stand-alone field of study is relatively new. Until the World War II, the study of design was mostly conflated with the history of art and architecture, sociocultural anthropology and archeology. With the study of materials, technological constrains, and indigenous building methods on the one hand. And examining the relationships between people, design and environment on the other. Historically, there were primarily two types of designers. The do-it-all master generalists, the likes of Leonardo Da Vinci, who have engaged in every conceivable act of creative endeavor and have designed virtually entire cities for their patrons. And then a more specialized craftsmen, who have mastered the art of design through family business know-how accumulated over generations, or through tapping into collective knowledge of guilds.
+
+
+
+
+With rapid technological advances, further accelerated by two World Wars, this was about to change.
+
+Accelarated pace of technology advances caused by war and contries pressed for resources.
+
+**Rise of an industrial designer**
+
+
+nobody called them designers
+
+with the need for specialization and for effective use of building material in countries pressed for resources by the war. a rise of industrial designer.
+
+ergonomics...
+
+
+UX
+
+
+
 
 
 According to Papanek today's designers are victims of tyranny of absolute choice. (p. 49). “When everything becomes possible, when all the limitations are gone, design and art can easily become a never-ending search for novelty, until newness-for-the-sake-of-newness becomes the only measure.”
@@ -95,10 +117,7 @@ We can see this all around the Internet community. Be it a preference for using 
 
 
 
-
-
-After WW2, industrial design was one the first fields to take a more ecological approach to designing and manufacturing tools and products for people, paying close attention to the context of every day use and stressing the importance of proper field research. 
-
+- The launch of the first Apple iPhone in 2007 marked a beginning of an era of completely “different tactile relationship to information” (http://breakingsmart.com/season-1/introduction-by-marc-andreessen/). Thought touch screens have been around for longer, iPhone pushed the industry to produce 
 
 - “the continual development of rich interaction techniques and tools to support user’s ability to create and shape external representations of knowledge that ultimately support more effective situation awareness and understanding.”  (Pirolli, & Russell, 2011, p. 2).
 
