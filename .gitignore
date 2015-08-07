@@ -30,8 +30,4 @@ bower_components/
 ehthumbs.db
 Thumbs.db
 
-# Design assets #
-######################
-*.ai
-*.eps
-*.psd
+
