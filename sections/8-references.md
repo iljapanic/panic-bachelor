@@ -39,19 +39,27 @@ Jones, W. (2012). *The future of personal information management, Part I: Our in
 
 Jones, W. P., & Teevan, J. (2007). Introduction. In *Personal information management*. Seattle: University of Washington Press.
 
+Kohr, L. (1957/2001). The Breakdown of Nations. Devon, UK: Green Books Ltd.
+
 Myburgh, S. (2005). Chapter 2: What is information work anyway?. In *The New Information Professional: How to Thrive in the Information Age Doing What You Love (1st ed.)*. Oxford: Chandos Publishing.
 
 Naumer, C. M., & Fisher, K. E. (2007). Naturalistic Approaches for Understanding PIM. In *Personal information management*. Seattle: University of Washington Press.
 
 Nonaka, I. (1991). The Knowledge-Creating Company. Harvard Business Review, 69(6), 96–104.
 
-Papanek, V. (1972). Design for the Real World: Human Ecology and Social Change (2nd. ed.). High Holborn, London: Thames & Hudson Ltd.
+Papanek, V. (1972/1985). Design for the Real World: Human Ecology and Social Change (2nd. ed.). London: Thames & Hudson Ltd.
+
+Papanek, V. (1983). Design for Human Scale. New York: Van Nostrand Reinhold Company.
+
+Papanek, V. (1995). The Green Imperative: Ecology and Ethics in Design and Architecture. London: Thames & Hudson Ltd.
 
 Peffers, K., Rothenberger, M. A., Tuunanen, T., & Chatterjee, S. (2007). A design science research methodology for information systems research. Journal of Management Information Systems, 24(3), 45–77.
 
 Pirolli, P., & Russell, D. M. (2011). Introduction to this special issue on sensemaking. Human-Computer Interaction, 26(1-2), 1–8. 
 
 Schlögl, C. (2005). Information and knowledge management: dimensions and approaches. Information Research: An International Electronic Journal, 10(4), 235.
+
+Schumacher, E. F. (1973/1993). Small Is Beautiful: Economics as if People Mattered. UK: Random House.
 
 Shedroff, N. (2000). Information Interaction Design: A Unified Field Theory of Design. In *Information Design*. Cambridge, Massachusetts: The MIT Press.
 
