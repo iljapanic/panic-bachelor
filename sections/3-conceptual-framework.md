@@ -2,7 +2,7 @@
 >*“Overload, clutter, and confusion are not attributes of information, they are failures of design.”*
 ><div style="text-align:right">(Tufte, 2011 as seen in ????){++REF++}</div>
 
-This section of the paper aims to improve understanding of the theoretical underpinnings of HII and information design—two young, emerging fields that have roots in more traditional fields of  library and information science (LIS), PIM, HCI, IS design, and design science. Moreover, it serves as a theoretical framework for the analysis presented later on. First, the basic concepts and terminology are examined, as to clarify their meaning for paper’s purposes and to avoid confusion. Next, a history of the changing role of the design is presented. The section concludes with conceptual models that have been chosen as relevant for the analysis.
+This section of the paper aims to improve understanding of the theoretical underpinnings of HII and information design—two young, emerging fields that have roots in more traditional fields of  library and information science (LIS), PIM, HCI, IS design, and design science. Moreover, it serves as a theoretical framework for the analysis presented later on. First, the basic concepts and terminology are examined, as to clarify their meaning for paper’s purposes and to avoid confusion. Next sub-section aims to shed light on the evolving role of design in society. It examines the historical position of design as an all-encompassing human endeavor and its gradual transformation into a formalized field. The section concludes with conceptual models that have been chosen as relevant for the analysis.
 
 According to Schrader, who studied 700 definitions of “information science” from 1900 to 1981, “the literature of information science is characterized by conceptual chaos” (as cited in Myburgh, 2005, p. 13). Rapid technological advances, widespread adoption of portable computing devices, and growing ubiquitous access to the Internet have characterized the turn of the 21st century (eMarketer, 2014a, 2014b; Internet Live Stats, n.d.). This has lead to a growing realization of the central role information plays in our everyday lives, and to a further conceptual and semantic confusion surrounding IM's core terms like data, information, and knowledge (Myburgh, 2005).
 
@@ -84,8 +84,6 @@ There are various terms used to describe a person interacting with an IS. Librar
 
 
 ### 3.2 Design meets information
-
-The purpose of this sub-section is to shed light on the evolving role of design in society. First it examines the historical position of design as an all-encompassing
 
 With the rapid adoption of the World Wide Web in the last two decades, the term “designer” became strongly associated with a small subset of visual design. Today, when we say designer, most people think of a person that builds websites, creates screen-based interfaces, and is concerned primarily with the digital, or sometimes print medium. However, design as a craft is much older than the Internet culture would lead us to believe. If taken in its broadest sense, design has always been here, and is in one of the most fundamental human activities. In the words of  one of the founding fathers of modern human-centered design:
 
