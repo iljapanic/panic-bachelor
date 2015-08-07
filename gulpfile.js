@@ -23,15 +23,14 @@ var path = {
 
 	publicDir: './',
 
-	markdownDir: './sections',
-	markdown: './sections/**/**/**.md',
+	markdownDir: './markdown',
+	markdown: './markdown/**/**/**.md',
 
-	htmlDir: './sections/htdocs',
-	htmlRoot: './*.html',
-	html: './sections/htdocs/**/**/*.html',
+	htmlDir: './html',
+	html: './html/**/**/*.html',
 
 	sassDir: './sass',
-    sass: './sass/**/**/**/*.{sass,scss}',
+	sass: './sass/**/**/**/*.{sass,scss}',
 
 	cssDir: './css',
 	css: './css/**/**.css'
@@ -59,13 +58,13 @@ function handleErrors() {
 
 gulp.task('browser-sync', function() {
 
-    browserSync.init({
-        server: {
-            baseDir: path.publicDir,
-            open: 'local',
-		    host: 'localhost'
-        }
-    });
+	browserSync.init({
+		server: {
+			baseDir: path.publicDir,
+			open: 'local',
+			host: 'localhost'
+		}
+	});
 
 });
 
@@ -78,10 +77,10 @@ gulp.task('browser-sync', function() {
 gulp.task('markdown', function() {
 
 	return gulp.src(path.markdown)
-  		.pipe(markdown())
-  		.on('error', handleErrors)
-		.pipe(gulp.dest(path.htmlDir))
-  		.pipe(browserSync.reload({stream:true}));
+	.pipe(markdown())
+	.on('error', handleErrors)
+	.pipe(gulp.dest(path.htmlDir))
+	.pipe(browserSync.reload({stream:true}));
 
 });
 
@@ -93,10 +92,10 @@ gulp.task('markdown', function() {
 gulp.task('html', function() {
 
 	return gulp.src(path.html)
-  		.pipe(fileInclude())
-  		.on('error', handleErrors)
-		.pipe(gulp.dest(path.publicDir))
-  		.pipe(browserSync.reload({stream:true}));
+	.pipe(fileInclude())
+	.on('error', handleErrors)
+	.pipe(gulp.dest(path.publicDir))
+	.pipe(browserSync.reload({stream:true}));
 
 });
 
@@ -112,18 +111,18 @@ gulp.task('html', function() {
 gulp.task('sass', function () {
 
 	return gulp.src(path.sass)
-		.pipe(sourcemaps.init())
-		.pipe(sass())
-		.on('error', handleErrors)
-		.pipe(sourcemaps.write())
+	.pipe(sourcemaps.init())
+	.pipe(sass())
+	.on('error', handleErrors)
+	.pipe(sourcemaps.write())
 	    // .pipe(autoprefixer({
 	    // 	browsers: ['last 2 versions'],
      //        cascade: false
 	    // }))
-		.pipe(cmq())
-	    .pipe(minifyCSS({keepSpecialComments: '0'}))
-	    .pipe(gulp.dest(path.cssDir))
-	    .pipe(browserSync.reload({stream:true}))
+.pipe(cmq())
+.pipe(minifyCSS({keepSpecialComments: '0'}))
+.pipe(gulp.dest(path.cssDir))
+.pipe(browserSync.reload({stream:true}))
 
 });
 
