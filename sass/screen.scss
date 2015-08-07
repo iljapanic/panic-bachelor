@@ -6,8 +6,30 @@ article {
 	margin-left: auto;
 	margin-right: auto;
 	line-height: 1.5;
+	counter-reset: figures;
 }
 
 img {
 	max-width: 100%;
+}
+
+figure {
+	text-align: center;
+}
+
+figure img {
+	max-width: 85%;
+	max-height: 480px;
+}
+
+figcaption {
+	// text-transform: uppercase;
+	counter-increment: figures;
+	font-weight: bold;
+}
+
+
+
+figcaption:before {
+	content: 'Figure ' counter(figures) '. ';
 }
