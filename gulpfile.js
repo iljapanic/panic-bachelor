@@ -1,24 +1,26 @@
-// Global Modules
-var browserSync 	= require('browser-sync');
-var requireDir		= require('require-dir');
+// MODULES
+
+// Global
+var browserSync = require('browser-sync');
+var requireDir = require('require-dir');
+
+// Gulp
+var gulp = require('gulp');
+var fileInclude	= require('gulp-file-include');
+var markdown = require('gulp-markdown');
+var minifyCSS = require('gulp-minify-css');
+var notify = require('gulp-notify');
+var plumber = require('gulp-plumber');
+var sass = require('gulp-sass');
+var sourcemaps = require('gulp-sourcemaps');
+var util = require('gulp-util');
+var watch = require('gulp-watch');
 
 
-// Gulp Modules
-var gulp        	= require('gulp');
-var autoprefixer 	= require('gulp-autoprefixer');
-var cmq 			= require('gulp-combine-media-queries');
-var fileInclude		= require('gulp-file-include');
-var markdown		= require('gulp-markdown');
-var minifyCSS		= require('gulp-minify-css');
-var notify			= require('gulp-notify');
-var plumber			= require('gulp-plumber');
-var sass			= require('gulp-sass');
-var sourcemaps		= require('gulp-sourcemaps');
-var util			= require('gulp-util');
-var watch			= require('gulp-watch');
 
+// VARIABLES
 
-// Path variables
+// Paths
 var path = {
 
 	publicDir: './',
@@ -39,22 +41,11 @@ var path = {
 
 
 
-// helper for handling errors
-function handleErrors() {
+// GULP TASKS
 
-	module.exports = function(errorObject, callback) {
-		notify.onError(errorObject.toString().split(': ').join(':\n')).apply(this, arguments);
-		// Keep gulp from hanging on this task
-		if (typeof this.emit === 'function') this.emit('end');
-	};
-
-}
-
-
-
-// 'browser-sync' task
+// 'browser-sync'
 //
-// 		- spins up a local server
+// 	- spins up a local server
 
 gulp.task('browser-sync', function() {
 
@@ -70,68 +61,63 @@ gulp.task('browser-sync', function() {
 
 
 
-// 'markdown' task
+// 'markdown'
 //
-//		- compiles all the .md files into .html files
+//	- compiles all the .md files into .html files
 
 gulp.task('markdown', function() {
 
 	return gulp.src(path.markdown)
-	.pipe(markdown())
-	.on('error', handleErrors)
-	.pipe(gulp.dest(path.htmlDir))
-	.pipe(browserSync.reload({stream:true}));
+		.pipe(plumber())
+		.pipe(markdown())
+		.pipe(gulp.dest(path.htmlDir))
+		.pipe(browserSync.reload({stream:true}));
 
 });
 
 
-// 'html' task
+// 'html'
 //
-//		- includes .html partials
+//	- includes .html partials
 
 gulp.task('html', function() {
 
 	return gulp.src(path.html)
-	.pipe(fileInclude())
-	.on('error', handleErrors)
-	.pipe(gulp.dest(path.publicDir))
-	.pipe(browserSync.reload({stream:true}));
+		.pipe(plumber())
+		.pipe(fileInclude())
+		.pipe(gulp.dest(path.publicDir))
+		.pipe(browserSync.reload({stream:true}));
 
 });
 
 
-// 'sass' task
+// 'sass'
 // 
-//		- compiles SASS into CSS
-//		- creates SASS sourcemaps (for debugging)
-//		- combines indetical media queries into a single one
-// 		- adds vendor prefixes
-//		- minifies the outputed CSS
+//	- compiles SASS into CSS
+//	- creates SASS sourcemaps (for debugging)
+//	- combines indetical media queries into a single one
+// 	- adds vendor prefixes
+//	- minifies the outputed CSS
 
 gulp.task('sass', function () {
 
 	return gulp.src(path.sass)
-	.pipe(sourcemaps.init())
-	.pipe(sass())
-	.on('error', handleErrors)
-	.pipe(sourcemaps.write())
-	    // .pipe(autoprefixer({
-	    // 	browsers: ['last 2 versions'],
-     //        cascade: false
-	    // }))
-.pipe(cmq())
-.pipe(minifyCSS({keepSpecialComments: '0'}))
-.pipe(gulp.dest(path.cssDir))
-.pipe(browserSync.reload({stream:true}))
+		.pipe(plumber())
+		.pipe(sourcemaps.init())
+		.pipe(sass())
+		.pipe(sourcemaps.write())
+		.pipe(minifyCSS({keepSpecialComments: '0'}))
+		.pipe(gulp.dest(path.cssDir))
+		.pipe(browserSync.reload({stream:true}))
 
 });
 
 
-// 'watch' task
+// 'watch'
 //
-//		- watches for changes in files
-//		- runs appropriate task when changes are detected
-//		- reloads browserSync
+//	- watches for changes in files
+//	- runs appropriate task when changes are detected
+//	- reloads browserSync
 
 gulp.task('watch', ['browser-sync'], function() {
 
@@ -144,8 +130,8 @@ gulp.task('watch', ['browser-sync'], function() {
 
 
 
-// 'default' task
+// 'default'
 //
-// 		- default set of tasks that are triggered after running 'gulp'
+//	- default set of tasks that are triggered after running 'gulp'
 
 gulp.task('default', ['sass', 'markdown', 'html', 'watch']);

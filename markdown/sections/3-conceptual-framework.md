@@ -15,8 +15,8 @@ The underlying goal of this paper is to go beyond HCI, which has traditionally b
 The growing realization of the inadequacy of HCI to cope with increasingly information-dense nature of everyday life has lead to an emergence of a new field of HII. This field has marked a “a philosophical shift of privileging the human’s interaction with the information, rather than the human’s interaction with the computer interface” (Albers, 2008, p. 117). This naturalistic view sees technology merely as an enabler, not the point of interest. It moves the human actor from outside to inside an information space in which “people must perceive and interpret the information artefacts so that they can achieve their goals in an activity space.” (Benyon, 2001, p. 429). The focus is on “on people interacting with information and solving problems” (Albers, 2008, p. 118) in an activity space, where their everyday experiences occur. HII strives to uncover how people conceive information, rather than just perceive it (Benyon, 2001). At the end of the day, a “person does not want to use a web-based information system or a computer application; they want to accomplish a real-world goal”  (Albers, 2008, p. 118). The term human information behavior (HIB) is sometimes used to describe essentially the same concept as HII. In this paper, the term HII is preferred, but both can be used interchangeably (Jones, 2012; Jones & Teevan, 2007). The Figure 1 illustrates the multidisciplinary nature of the field. 
 
 <figure>
-	<img src="../figures/figure-1.png" alt="Figure-1" title="Figure 1. Fields involved in successful communication of technical information. Adapted from Albers (2008)">
-	<figcaption><b>Figure 1. Fields involved in successful communication of technical information.  Adapted from Albers (2008)</b></figcaption>
+	<img src="./figures/figure-1.png" title="Fields involved in successful communication of technical information. Adapted from Albers (2008)">
+	<figcaption><b>Fields involved in successful communication of technical information.  Adapted from Albers (2008)</b></figcaption>
 </figure>
 
 
@@ -36,8 +36,8 @@ Information is a product of human interaction with data and that “part of an i
 In broad terms, knowledge can be described as “that which people know and is accumulated through understanding, interpreting, analysing and making meaning of what is experienced and observed, as well what others have communicated” (Myburgh, 2005, p. 22). It is derived from both data and information and depends on personality and intellect. Therefore, everyone possesses a highly personal unique body of knowledge that resides inside his or her head. Every knowledge management system is inherently trying to separate knowledge from the mind to a greater or lesser degree. Management studies in particular have grown fond of the notion of the tacit knowledge, popularized by Nonaka (1991). This view argues that an organization can tap into knowledge hidden in the heads of the organizational members by devising appropriate methods and processes to translate tacit knowledge into explicit knowledge that can be communicated to the rest of the organization. This again suggests a rather system-centric view, where knowledge is treated as a commodity to be captured, codified, and seen primarily as an organizational asset. In the tradition of Polanyi (Tsoukas, 2003), this paper treats knowledge as something highly situated and entirely ineffable. It cannot be transmitted, only information about the knowledge can, and “that information can only ever be an incomplete surrogate for the knowledge” (Wilson, 2000, p. 50). When a person interacts with information and uses it to solve a problem or achieve a specific goal, knowledge can also be seen as information in action (Hughes, 2002). The concept of wisdom is beyond the scope of this paper, and is regarded as a highest form of knowledge that has accumulated over a long period, and is impossible to communicate.
 
 <figure>
-	<img src="../figures/figure-2.gif" alt="Figure-2" title="The Understanding Spectrum. Adapted from Shedroff (2000)">
-	<figcaption><b>Figure 2. The Understanding Spectrum. Illustration of the relationships between the key terms. Adapted from Shedroff (2000)</b></figcaption>
+	<img src="./figures/figure-2.gif" alt="" title="The Understanding Spectrum. Adapted from Shedroff (2000)">
+	<figcaption><b>The Understanding Spectrum. Illustration of the relationships between the key terms. Adapted from Shedroff (2000)</b></figcaption>
 </figure>
 
 
@@ -48,8 +48,8 @@ Wilson described information behavior as “the totality of human behavior in re
 Human processing of information is not seen as a static input-output process, but rather as a continuous act of sense-making which “focuses on how people understand information they receive within their life context, with factors such as the person’s expertise, social position, and situation affecting their understanding” (Fidel, 2012, p. 59). Information behavior as a research area is too broad for the purposes of this paper. A subset of information-seeking behaviour, which is concerned with the information needs, has been chosen as a primary area of research, and is illustrated in Figure 3. Information search behavior is “the ‘micro-level’ of behavior employed by the searcher in interacting with information systems of all kinds” (Wilson, 2000, p. 49). It focuses on the interaction with the system on both the interface, and the intellectual level. For the analysis’s purposes it is implicitly contained within the term information-seeking behaviour.
 
 <figure>
-	<img src="../figures/figure-3.jpg" alt="Figure-3" title="Figure 3. A nested model of the information seeking and information searching research areas. Adapted and modified from Wilson (1999)">
-	<figcaption><b>Figure 3. A nested model of the information seeking and information searching research areas. Shading added by the author to highlight the area of interest. Adapted and modified from Wilson (1999)</b></figcaption>
+	<img src="./figures/figure-3.jpg" alt="" title="A nested model of the information seeking and information searching research areas. Adapted and modified from Wilson (1999)">
+	<figcaption><b>A nested model of the information seeking and information searching research areas. Shading added by the author to highlight the area of interest. Adapted and modified from Wilson (1999)</b></figcaption>
 </figure>
 
 
@@ -59,8 +59,8 @@ Information need is a secondary human need that arises out of more basic, primal
 
 
 <figure>
-	<img src="../figures/figure-4.png" alt="Figure-4" title="Figure 4. Wilson’s model of information-seeking behaviour. Adapted from Wilson (1999)">
-	<figcaption><b>Figure 4. Wilson’s model of information-seeking behaviour. Adapted from Wilson (1999)</b></figcaption>
+	<img src="./figures/figure-4.png" alt="" title="Wilson’s model of information-seeking behaviour. Adapted from Wilson (1999)">
+	<figcaption><b>Wilson’s model of information-seeking behaviour. Adapted from Wilson (1999)</b></figcaption>
 </figure>
 
 
@@ -68,9 +68,9 @@ Much of the study of information-seeking behavior revolves around a single role 
 
 
 <figure>
-	<img src="../figures/figure-5.png" alt="Figure-5" title="Figure 5.The context of information seeking. Adapted from Wilson (2006)
+	<img src="./figures/figure-5.png" alt="" title="The context of information seeking. Adapted from Wilson (2006)
 ">
-	<figcaption><b>Figure 5.The context of information seeking. Illustrates a variety of overlapping contexts when using a single information system, arrows show some of the possible search paths. Adapted from Wilson (2006)
+	<figcaption><b>The context of information seeking. Illustrates a variety of overlapping contexts when using a single information system, arrows show some of the possible search paths. Adapted from Wilson (2006)
 </b></figcaption>
 </figure>
 
@@ -98,8 +98,8 @@ Papanek (1995) illustrates this disconnect between designers and people experien
  design process begins with designers and ends with people
 
 <figure>
-	<img src="../figures/figure-6.jpg" alt="Figure-6" title="Figure 6. aaaaaaa. Adapted from Papanek (1983)">
-	<figcaption><b>Figure 6. aaaaaaa. Adapted from Papanek (1983)</b></figcaption>
+	<img src="./figures/figure-6.jpg" alt="" title="aaaaaaa. Adapted from Papanek (1983)">
+	<figcaption><b>aaaaaaa. Adapted from Papanek (1983)</b></figcaption>
 </figure>
 
 
@@ -152,22 +152,22 @@ The problem-based nature of the information-seeking behavior fits well with the 
 
 
 <figure>
-	<img src="../figures/figure-7.png" alt="Figure-7" title="Figure 7. Dervin’s Sense-Making framework. Adapted from Wilson (1999)">
-	<figcaption><b>Figure 7. Dervin’s Sense-Making framework modified. Adapted from Wilson (1999)</b></figcaption>
+	<img src="./figures/figure-7.png" alt="" title="Dervin’s Sense-Making framework. Adapted from Wilson (1999)">
+	<figcaption><b>Dervin’s Sense-Making framework modified. Adapted from Wilson (1999)</b></figcaption>
 </figure>
 
 
 The first model used in the analysis is the “information needs and seeking” conceptualization as proposed by Wilson (2006), and illustrated in Figure 8. This model will be used to investigate the environmental, socio-psychological, and role-based constraints, and will set the actor in a broader context of travel. Information seeking is seen as a way to satisfy more primal needs.
 
 <figure>
-	<img src="../figures/figure-8.jpg" alt="Figure-8" title="Figure 8. Information needs and seeking. Adapted from Wilson (2006)">
-	<figcaption><b>Figure 8. Information needs and seeking. Adapted from Wilson (2006)</b></figcaption>
+	<img src="./figures/figure-8.jpg" alt="" title="Information needs and seeking. Adapted from Wilson (2006)">
+	<figcaption><b>Information needs and seeking. Adapted from Wilson (2006)</b></figcaption>
 </figure>
 
 Second is the “problem solving model of the information seeking and searching process” as proposed by Wilson (1999), and illustrated in Figure 9. This model moves closer to the human mind, and will be used to take a closer look at how an actor uses information to gradually lower uncertainty and reach a solution to a travel-related problem.
 
 
 <figure>
-	<img src="../figures/figure-9.png" alt="Figure-9" title="Figure 9. A problem solving model of the information seeking and searching process. Adapted from Wilson (1999)">
-	<figcaption><b>Figure 9. A problem solving model of the information seeking and searching process. Adapted from Wilson (1999)</b></figcaption>
+	<img src="./figures/figure-9.png" alt="" title="A problem solving model of the information seeking and searching process. Adapted from Wilson (1999)">
+	<figcaption><b>A problem solving model of the information seeking and searching process. Adapted from Wilson (1999)</b></figcaption>
 </figure>

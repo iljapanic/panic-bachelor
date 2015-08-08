@@ -1,13 +1,17 @@
-// @import 'pubCss';
+@import 'pubCSS';
 
 
-article {
-	max-width: 960px;
-	margin-left: auto;
-	margin-right: auto;
-	line-height: 1.5;
-	counter-reset: figures;
-}
+// body {
+// 	counter-reset: page;
+// }
+
+// article {
+// 	max-width: 960px;
+// 	margin-left: auto;
+// 	margin-right: auto;
+// 	line-height: 1.5;
+// 	counter-reset: figures;
+// }
 
 img {
 	max-width: 100%;
@@ -22,14 +26,14 @@ figure img {
 	max-height: 480px;
 }
 
-figcaption {
-	// text-transform: uppercase;
-	counter-increment: figures;
-	font-weight: bold;
-}
+// figcaption {
+// 	// text-transform: uppercase;
+// 	counter-increment: figures;
+// 	font-weight: bold;
+// }
 
 
 
-figcaption:before {
-	content: 'Figure ' counter(figures) '. ';
-}
+// figcaption:before {
+// 	content: 'Figure ' counter(figures) '. ';
+// }
