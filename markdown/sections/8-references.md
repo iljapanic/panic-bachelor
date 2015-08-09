@@ -7,6 +7,8 @@ Bawden, D., & Robinson, L. (2012). Chapter 9: Information behaviour. In *Introdu
 
 Benyon, D. (2001). The new HCI? navigation of information space. Knowledge-Based Systems, 14(8), 425–430.
 
+Burford, S. (2011). Complexity and the practice of web information architecture. Journal of the American Society for Information Science and Technology, 62(10), 2024–2037.
+
 Choo, C. W. (2002). A Process Model of Information Management. In *Information Management For The Intelligent Organization: The Art Of Scanning The Environment (3rd ed.)*. Medford, NJ: Information Today.
 
 Cooley, M. (2000). Human-Centered Design. In *Information Design*. Cambridge, Massachusetts: The MIT Press.
