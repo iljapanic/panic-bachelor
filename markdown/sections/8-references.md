@@ -16,7 +16,9 @@ Crotty, M. J. (1998). The Foundations of Social Research: Meaning and Perspectiv
 Detlor, B. (2010). Information management. International Journal of Information Management, 30(2), 103–108.
 
 Dorte, M. (2012). New Directions in Information Management Education in Denmark: On the Importance of Partnerships with the Business Community and the Role of Interdisciplinary Theory to Create a Coherent Framework for Information Management. In *Library and Information Science Trends and Research: Europe (Vol. 6, pp. 247–270)*. Emerald Group Publishing Limited.
-			
+
+Dreyfuss, H. (1955/2003). Designing for People. New York: Allworth Press.
+
 eMarketer. (2014a, January 16). Smartphone Users Worldwide Will Total 1.75 Billion in 2014. Retrieved May 17, 2015, from http://www.emarketer.com/Article/Smartphone-Users-Worldwide-Will-Total-175-Billion-2014/1010536
 
 eMarketer. (2014b, December 11). 2 Billion Consumers Worldwide to Get Smart(phones) by 2016. Retrieved May 17, 2015, from http://www.emarketer.com/Article/2-Billion-Consumers-Worldwide-Smartphones-by-2016/1011694

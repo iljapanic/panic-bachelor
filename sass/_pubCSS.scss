@@ -11,21 +11,23 @@
 // }
 
 body {
-	page: main;
-	counter-reset: page;
+	page: content;
+	counter-reset: page 1;
+	// counter-reset: page;
 }
 
-@page main {
-	size: 210mm 297mm;
+@page content {
+	size: A4;
 	margin: 3cm 2cm 3cm 2cm;
-
-  @top { }
-    
-@bottom {
-        content: counter(page);
-    }
-
 }
+
+@page content {
+    // counter-increment: page;
+    // @top-right {
+    //     content: counter(page);
+    // }
+}
+
 
 .footnote {
   float: prince-column-footnote;

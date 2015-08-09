@@ -5,13 +5,39 @@
 // 	counter-reset: page;
 // }
 
-// article {
-// 	max-width: 960px;
-// 	margin-left: auto;
-// 	margin-right: auto;
-// 	line-height: 1.5;
-// 	counter-reset: figures;
-// }
+body {
+	font-family: "garamond-premier-pro";
+	// font-size: 1.25em;
+	// page: main;
+}
+
+@media print {
+	p {
+
+		font-size: 12pt;
+		line-height: 1.5;
+	}
+	 counter-increment: page;
+    @top-right {
+        content: counter(page);
+    }
+}
+
+@media screen {
+	p {
+
+		font-size: 1.45em;
+		line-height: 1.5;
+	}
+}
+
+article {
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 1.5;
+	counter-reset: figures;
+}
 
 img {
 	max-width: 100%;
@@ -26,14 +52,14 @@ figure img {
 	max-height: 480px;
 }
 
-// figcaption {
-// 	// text-transform: uppercase;
-// 	counter-increment: figures;
-// 	font-weight: bold;
-// }
+figcaption {
+	// text-transform: uppercase;
+	counter-increment: figures;
+	font-weight: bold;
+}
 
 
 
-// figcaption:before {
-// 	content: 'Figure ' counter(figures) '. ';
-// }
+figcaption:before {
+	content: 'Figure ' counter(figures) '. ';
+}

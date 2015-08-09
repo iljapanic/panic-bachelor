@@ -12,7 +12,7 @@ The paper’s pragmatic nature stems from a phenomenological tradition in which 
 
 The underlying goal of this paper is to go beyond HCI, which has traditionally been concerned with the study of PIM and information needs in IS design. In the world where people are drowning in data, HCI “has not really kept pace with the changes in technology” (Benyon, 2001, p. 426). This system-centric view sees the user as outside the computer and focuses primarily on how people manipulate data through interfaces. It investigates how people consume information, rather than how they comprehend it and integrate it in the broader context(s) of their everyday lives. What we call information systems, are in fact, often just data-manipulation systems. The design of these systems is usually driven by the capabilities of the given technology, rather than by the information needs of the end-user (Albers, 2008; Benyon, 2001; Wilson, 2000).
 
-The growing realization of the inadequacy of HCI to cope with increasingly information-dense nature of everyday life has lead to an emergence of a new field of HII. This field has marked a “a philosophical shift of privileging the human’s interaction with the information, rather than the human’s interaction with the computer interface” (Albers, 2008, p. 117). This naturalistic view sees technology merely as an enabler, not the point of interest. It moves the human actor from outside to inside an information space in which “people must perceive and interpret the information artefacts so that they can achieve their goals in an activity space.” (Benyon, 2001, p. 429). The focus is on “on people interacting with information and solving problems” (Albers, 2008, p. 118) in an activity space, where their everyday experiences occur. HII strives to uncover how people conceive information, rather than just perceive it (Benyon, 2001). At the end of the day, a “person does not want to use a web-based information system or a computer application; they want to accomplish a real-world goal”  (Albers, 2008, p. 118). The term human information behavior (HIB) is sometimes used to describe essentially the same concept as HII. In this paper, the term HII is preferred, but both can be used interchangeably (Jones, 2012; Jones & Teevan, 2007). The Figure 1 illustrates the multidisciplinary nature of the field. 
+The growing realization of the inadequacy of HCI to cope with increasingly information-dense nature of everyday life has lead to an emergence of a new field of HII. This field has marked a “a philosophical shift of privileging the human’s interaction with the information, rather than the human’s interaction with the computer interface” (Albers, 2008, p. 117). This naturalistic view sees technology merely as an enabler, not the point of interest. It moves the human actor from outside to inside an information space in which “people must perceive and interpret the information artefacts so that they can achieve their goals in an activity space.” (Benyon, 2001, p. 429). The focus is on “on people interacting with information and solving problems” in an activity space, where their everyday experiences occur (Albers, 2008, p. 118). HII strives to uncover how people conceive information, rather than just perceive it (Benyon, 2001). At the end of the day, a “person does not want to use a web-based information system or a computer application; they want to accomplish a real-world goal”  (Albers, 2008, p. 118). The term human information behavior (HIB) is sometimes used to describe essentially the same concept as HII. In this paper, the term HII is preferred, but both can be used interchangeably (Jones, 2012; Jones & Teevan, 2007). The Figure 1 illustrates the multidisciplinary nature of the field. 
 
 <figure>
 	<img src="./figures/figure-1.png" title="Fields involved in successful communication of technical information. Adapted from Albers (2008)">
@@ -77,7 +77,7 @@ Much of the study of information-seeking behavior revolves around a single role 
 
 #### Actor
 
-There are various terms used to describe a person interacting with an IS. Librarians call such people patrons. In the corporate context they are sometimes referred to as clients. Undoubtedly, the most widely used term is users. “All these terms include only those who actually use a system and ignore potential users who may also benefit from using it” (Fidel, 2012, p. 4). On the other hand, the term actor implies a sense of agency and shifts the focus from the system to the participant, who has an existence outside of the information system. It highlights the importance of HII taking place in a context(s) of activities. Furthermore, this conceptualization forces us to also consider the nonusers, who may be reluctant to use an IS because their information needs have not been satisfied (Fidel, 2012). The term user is occasionaly used throught the paper to avoid clumsy wording, but generally actor is the preferred term.
+There are various terms used to describe a person interacting with an IS. Librarians call such people patrons. In the corporate context they are sometimes referred to as clients. Undoubtedly, the most widely used term is users. “All these terms include only those who actually use a system and ignore potential users who may also benefit from using it” (Fidel, 2012, p. 4). On the other hand, the term actor implies a sense of agency and shifts the focus from the system to the participant, who has an existence outside of the information system. It highlights the importance of HII taking place in a context(s) of activities. Furthermore, this conceptualization forces us to also consider the nonusers, who may be reluctant to use an IS because their information needs have not been satisfied (Fidel, 2012). The term user is occasionally used throughout the paper to avoid clumsy wording, but generally actor is the preferred term.
 
 
 ### 3.2 Design meets information
@@ -91,33 +91,48 @@ With the rapid adoption of the World Wide Web in the last two decades, the term 
 
 Before advances in mass production majority of communities and families have directly participated in the process of designing/building their dwellings and everyday objects around them. “The connection between designer/builder and end-user was direct” (Papanek, 1995, p. 103). Vernacular architecture and design use locally sourced materials and methods to build structures that are designed directly around the needs of people using them. Such structures are more sensitive to a particular context of use and local environment, and are build on *human scale*. This idea is based on respecting natural proportions, stemming from principles of organic and biomorphic design and translating them into man-made system or objects (Papanek, 1983). It is directly opposed to gigantism, and admiration of bigness brought upon by industrial revolution. The concept of human scale was coined by Kohr (1957) in *The Breakdown of Nations* where he applied it to the size of political groupings. This concept was later popularizied by Schumacher (1973) who put an economic twist to it in his *Small is Beautiful*. Papanek (1983) outlined a strategy for a sustainable, and honest design in his *Design for Human Scale*. The concept of human scale is revisited later in the paper.
 
-Formalization of design combined with the evermore efficient means of mass production have certainly accelerated technological and cultural progress. But they have also made design inaccessible to a majority of people. Making it a matter of the so-called experts, concetrated in academia and business, not something concerning everyone. Perception and knowledge of design sensible to people’s lives is something that would benefit everyone from earliest stages of their life. Despite that, appreciation for good design is mostly self-taught or acquired through higher education. This also creates a negative effect in a form of ethnocentrism from a perspective of  designers. Artistic expression and newness-for-the-sake-of-newness take primer over utility of the objects they are designing. Design becomes less inclusive, a “game played by an increasingly small elite, with a complete disregard for people” (Papanek, 1983, p. 6). Designing primarely for the constructed needs of a small fraction of population in abundant societies. Often neglecting people with special needs, and those with limited access to conveniences of the modern life. Putting aside a moral issue with such approach, it also deprives us of truly inclusive designs, because “if we […] lump together all the seemingly little minorities […], if we combine all these ‘special’ needs, we find that we have designed for the majority after all” (Papanek, 1972 ,p. 68).
+Formalization of design combined with the evermore efficient means of mass production have certainly accelerated technological and cultural progress. But they have also made design inaccessible to a majority of people. Making it a matter of the so-called experts, concetrated in academia and business, not something concerning everyone. Perception and knowledge of design sensible to people’s lives is something that would benefit everyone from earliest stages of their life. Despite that, appreciation for good design is mostly self-taught, or acquired through higher education. This also creates a negative effect in a form of ethnocentrism from a perspective of  designers. Artistic expression and newness-for-the-sake-of-newness take primer over utility of the objects they are designing. Design becomes less inclusive, a “game played by an increasingly small elite, with a complete disregard for people” (Papanek, 1983, p. 6). Designing primarily for the constructed needs of a small fraction of population in abundant societies. Often neglecting people with special needs, and those with limited access to conveniences of the modern life. Putting aside a moral issue with such approach, it also deprives us of truly inclusive designs, because “if we […] lump together all the seemingly little minorities […], if we combine all these ‘special’ needs, we find that we have designed for the majority after all” (Papanek, 1972 ,p. 68).
 
-Papanek (1995) illustrates this disconnect between designers and people experiencing their designs on a constellation of people involved in building a house in which an architect/designer never comes in touch with the house occupant (for a diagram see Apendix 1). This can easily be transfered to a moden example with design and development activities scattered around various organizational silos. Direct contact with customers happens mostly throught customer support and marketing research departments. Solutions are designed for people, not with people. A traditional design based on a waterfall model(s) begins with designers, is engineered, then markted and given to the people (see left side of Figure 6). This approach neglects the fact that design should both begin, and end with people.
+Papanek (1995) illustrates this disconnect between designers and people experiencing their designs on a constellation of people involved in building a house in which an architect/designer never comes in contact with the house occupant (for a diagram see Apendix 1). This can easily be translated to a modern example with design and development activities scattered around various organizational silos. Direct contact with customers happens mostly through customer support and marketing research departments. Solutions are designed for people, not with people.
 
- design process begins with designers and ends with people
+A traditional design based on a waterfall model(s) begins with designers, is engineered, then marketed and given to the people in the end (see the diagram on the left in Figure 6). Subsequently, the end-user feedback is incorporated only peripherally after the design has already been completed. This approach neglects the fact that the design process should both begin, and end with people. Papanek (1983) suggests a more iterative design process flowchart (see the diagram on the right in Figure 6). In his conceptualization the flow starts with people, and is represented with a spiral, rather than a single arc, implying a more dynamic and continuous process with reoccurring feedback loops. Moreover, it acknowledges the changing nature of design by leaving empty spokes for including new design methods that may arise in the future.
 
 <figure>
-	<img src="./figures/figure-6.jpg" alt="" title="aaaaaaa. Adapted from Papanek (1983)">
-	<figcaption><b>aaaaaaa. Adapted from Papanek (1983)</b></figcaption>
+	<img src="./figures/figure-6.jpg" alt="Design process flowchart. Adapted from Papanek (1983)">
+	<figcaption>From static to dynamic design process flowchart. Adapted from Papanek (1983)</figcaption>
 </figure>
 
 
 #### Rise of a designer
 
-It was Bauhaus that brought fort a detailed study of a relationship between people and their designed environment
+It was not until 20th century that design started emerging as a stand-alone field. In 1920s Bauhaus established itself as a leading school of thought in design, and continues to have an influence on the field to this day. Bauhaus brought fort a more critical inquiry into the relationship between people and their man-made environment. This school of art was sometimes criticized for prioritizing form over function, and was considered élitist and alienating by some. Nevertheless, it inspired many great designers, and paved the way for a design as a profession in and of itself.
 
-In 20's Bauhaus put the issue of humans an their role in design to forefront.
+The onset of the World War II has accelerated the technological progress. Countries and organizations pressed for resources have realized the importance of good design, and the benefits of building systems that provide a better human fit. To achieve this the field of industrial designer has emerged. The field gained popularity thanks to a celebrity industrial designer Henry Dreyfuss. His work on cars, airplanes, ships, telephones, typewriters, vacuum cleaners, and countless other everyday objects, is apparent to this day. Dreyfuss’s *Designing for People* (1955) is considered a classic among industrial designers, and has pushed entire industries to reconsider their approach to design. 
+
+Industrial design has brought back human element into a world blinded by capabilities of the latest technology. It helped transform crude machinery into more enjoyable systems, that have a higher tolerance for human error, and are more sensitive to the context of use. The primary goal of industrial design is to aid the design of physical affordances of the systems we use. This is achieved through the study of human factors and ergonomics. It tries to answer seemingly simple question of how to make things more comfortable to use.
+
+Because industrial design operates in a relatively well structured environment, the utility and purpose of the objects being designed is usually well-defined in advance. 
+
+We know that we are designing a car which 
 
 
 
-According to Papanek today's designers are victims of tyranny of absolute choice. (p. 49). “When everything becomes possible, when all the limitations are gone, design and art can easily become a never-ending search for novelty, until newness-for-the-sake-of-newness becomes the only measure.” 
+- industrial design operating in a more structured environment (A22)
+- where the purpose and utility of the environmental data has already been established - e.g. drive a car, operate a motor vehicle, fly a t….
+- adapting to environment (ergonomy) not interacting with endless flow of data
+- They worked in a much more stable environment where tools had an obvious purpose and their role was clear. Digital world, the online one in particular, is an ephemeral and ever-changing. 
+- “these semantic aspects of communication are irrelevant for the engineering problem” (A26)
+
+
+
+According to Papanek today's designers are victims of tyranny of absolute choice. (p. 49). “When everything becomes possible, when all the limitations are gone, design and art can easily become a never-ending search for novelty, until newness-for-the-sake-of-newness becomes the only measure.”
+
+This holds true now more than ever. No matter what field you are in these days, trying to stay proficient in all the current technologies would jeopardize one's sanity.
 
 We can see this all around the Internet community. Be it a preference for using the newest frameworks in the development community ({++ link to frameworks article ++}REF.) or erosion of visual variety through flat design, with its insistence on minimalism and lack of visual gimmicks {++ add links to end of designer, flat UI ++}.
 
 
-
-- "Best Interface is No Interface" - industry calls for more seamless solutions not involving screens. Like Ford "kick" mechanism sensitive to the context of opening a trunk with you hands full of shopping bags.
+- "Best Interface is No Interface" - industry calls for more seamless solutions not involving screens. Like Ford "kick" mechanism sensitive to the context of opening a trunk with you hands full of shopping bags. And for building things that do not scale (Graham ??? {++REF!!++})
 
 - The launch of the first Apple iPhone in 2007 marked a beginning of an era of completely “different tactile relationship to information” (http://breakingsmart.com/season-1/introduction-by-marc-andreessen/). 
 
@@ -127,11 +142,7 @@ We can see this all around the Internet community. Be it a preference for using 
 Business are now trying to get people involved by using Lean Startup and Lean UX methods. But such applications are still a minority.
 
 
-- industrial design operating in a more structured environment (A22)
-- where the purpose and utility of the environmental data has already been established - e.g. drive a car, operate a motor vehicle, fly a t….
-- adapting to environment (ergonomy) not interacting with endless flow of data
-- They worked in a much more stable environment where tools had an obvious purpose and their role was clear. Digital world, the online one in particular, is an ephemeral and ever-changing. 
-- “these semantic aspects of communication are irrelevant for the engineering problem” (A26)
+
 - put image of stable environmental Dreyfuss, image community network
 - design informed by humans not system capabilities (B4: 79)
 - shift from UX and visual design, to information design (A18)
@@ -141,8 +152,6 @@ Business are now trying to get people involved by using Lean Startup and Lean UX
 
 - “the continual development of rich interaction techniques and tools to support user’s ability to create and shape external representations of knowledge that ultimately support more effective situation awareness and understanding.”  (Pirolli, & Russell, 2011, p. 2).
 - a context-specific information system (Fidel 2012; 14)
-- information architecture - top-down organizational schemes and semantic taxonomies
-new kid on the block: information design, inside-out approach, less algorithmic and systematic and more organic and sensitive to a particular context of use
 
 
 ### 3.3 Relevant models
