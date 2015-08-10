@@ -109,16 +109,23 @@ It was not until 20th century that design started emerging as a stand-alone fiel
 
 The onset of the World War II has accelerated the technological progress. Countries and organizations pressed for resources have realized the importance of good design, and the benefits of building systems that provide a better human fit. To achieve this the field of industrial designer has emerged. The field gained popularity in part thanks to a celebrity industrial designer Henry Dreyfuss. His work on cars, airplanes, ships, telephones, typewriters, vacuum cleaners, and countless other everyday objects, still surrounds us to this day. Dreyfuss’s *Designing for People* (1955) is considered a classic among industrial designers, and has pushed entire industries to reconsider their approach to design. Dreyfuss was first and foremost a practitioner, primarily concerned with pragmatic aspects of design. Other famous designers include Victor Papanek, R. Buckminster Fuller, and Donald Norman, whose work combines social commentary with foundations of human-centered design.
 
-Industrial design has brought back human element into a world blinded by capabilities of the latest technology. It helped transform crude machinery into more enjoyable systems, that have a higher tolerance for human error, and are more sensitive to the context of use. The primary goal of industrial design is to aid the design of physical affordances of the systems we use. This is achieved through the study of human factors and ergonomics. It tries to answer a question of how to make things more comfortable to use. Because industrial design operates in a relatively well structured environment, the utility and purpose of the objects being designed is usually well-defined in advance. Car is used to get from a point A to a point B. As designers, we do not have to ponder about the purpose of the car. We just need to make the driving experience as pleasant and hassle-free as possible. Information technology has fundamentally changed this relationship between designer and the purpose of the objects being designed.
+Industrial design has brought back human element into a world blinded by capabilities of the latest technology. It helped transform crude machinery into more enjoyable systems, that have a higher tolerance for human error, and are more sensitive to the context of use. The primary goal of industrial design is to aid the design of physical affordances of the systems we use. This is achieved through the study of human factors and ergonomics. It tries to answer a question of how to make things more comfortable to use. Because industrial design operates in a relatively well structured environment, the utility and purpose of the objects being designed is often well-defined in advance. Car is used to get from a point A to a point B. As designers, we do not have to ponder about the purpose of the car. We just need to make the driving experience as pleasant and hassle-free as possible. Information technology has fundamentally changed this relationship between designer and the purpose of the objects being designed.
 
-In the ephemeral and ever-changing environment of the digital world, this is a much  
+Up to this point, designers could 
+
+Due to the ephemeral, and ever-changing nature of the digital medium 
 
 
-- industrial design operating in a more structured environment (A22)
 - adapting to environment (ergonomy) not interacting with endless flow of data
-- They worked in a much more stable environment where tools had an obvious purpose and their role was clear. Digital world, the online one in particular, is an ephemeral and ever-changing. 
 - “these semantic aspects of communication are irrelevant for the engineering problem” (A26)
 
+
+- The launch of the first Apple iPhone in 2007 marked a beginning of an era of completely “different tactile relationship to information” (http://breakingsmart.com/season-1/introduction-by-marc-andreessen/). 
+
+- “the continual development of rich interaction techniques and tools to support user’s ability to create and shape external representations of knowledge that ultimately support more effective situation awareness and understanding.”  (Pirolli, & Russell, 2011, p. 2).
+
+
+- put image of stable environmental Dreyfuss, image community network
 
 
 According to Papanek today's designers are victims of tyranny of absolute choice. (p. 49). “When everything becomes possible, when all the limitations are gone, design and art can easily become a never-ending search for novelty, until newness-for-the-sake-of-newness becomes the only measure.”
@@ -130,24 +137,19 @@ We can see this all around the Internet community. Be it a preference for using 
 
 - "Best Interface is No Interface" - industry calls for more seamless solutions not involving screens. Like Ford "kick" mechanism sensitive to the context of opening a trunk with you hands full of shopping bags. And for building things that do not scale (Graham ??? {++REF!!++})
 
-- The launch of the first Apple iPhone in 2007 marked a beginning of an era of completely “different tactile relationship to information” (http://breakingsmart.com/season-1/introduction-by-marc-andreessen/). 
-
-- “the continual development of rich interaction techniques and tools to support user’s ability to create and shape external representations of knowledge that ultimately support more effective situation awareness and understanding.”  (Pirolli, & Russell, 2011, p. 2).
-
 
 Business are now trying to get people involved by using Lean Startup and Lean UX methods. But such applications are still a minority.
 
 
 
-- put image of stable environmental Dreyfuss, image community network
+
 - design informed by humans not system capabilities (B4: 79)
 - shift from UX and visual design, to information design (A18)
+- a context-specific information system (Fidel 2012; 14)
 - challenge menu drivven systems (B4: 66)
 
 -  relying heavily on menu-driven interfaces defined by often arbitrary taxonomies (Cooley, 2000). 
 
-- “the continual development of rich interaction techniques and tools to support user’s ability to create and shape external representations of knowledge that ultimately support more effective situation awareness and understanding.”  (Pirolli, & Russell, 2011, p. 2).
-- a context-specific information system (Fidel 2012; 14)
 
 
 ### 3.3 Relevant models

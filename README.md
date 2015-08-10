@@ -1,49 +1,27 @@
 # panic-bachelor
 
-Bachelor's project by [Ilja A. Panic](http://iljapanic.me)
+This is an experiment in writing a bachelor project using [Markdown](http://daringfireball.net/projects/markdown/). The idea is to create a platform-independent format for academic papers using openly available tools. Hopefully creating a sustainable pattern for academic writing that is compatible with the Web, while staying entirely focused on the writing.
 
-## Project roadmap
-- [x] ~~do the necessary research~~
-- [ ] write the project using [Markdown](http://daringfireball.net/projects/markdown/)
-- [ ] use [Pandoc](http://pandoc.org) or [PubCSS](https://github.com/thomaspark/pubcss/) to generate a PDF
-- [ ] **hand in the paper!!!**
-- [ ] add links to books and articles to README
-- [ ] change references to BibTeX format 
-- [ ] create GitHub Pages site
+This is a living document. Expect things to be added and deleted abruptly. Who knows, you may even live long enough to see a finished, well-documented project one day.
+
+If you have any questions, or comments (both to writing and code) don't hesitate to get in touch with [me](http://iljapanic.me).
+
+
+## Dependencies
+
+- [Gulp](http://gulpjs.com/) - converts Markdown to HTML, takes care of all the Web-related stuff
+- [Prince](http://www.princexml.com/) - generates a PDF from HTML
+- [Pandoc](http://pandoc.org/) - generates Word document (sigh) from HTML
+
 
 ## Table of Contents
 
-
-### 1 INTRODUCTION
-
-
-### 2 RESEARCH DOMAIN
+*Coming soon*
 
 
-### 3 CONCEPTUAL FRAMEWORK
+## Author
 
-#### 3.1 Terminology goulash
-#### 3.2 Design meets information
-#### 3.3 Relevant models
-
-### 4 METHODOLOGY
-    
-#### 4.1 Data collection
-
-### 5 ANALYSIS
-
-#### 5.1 Current solutions
-
-#### 5.2 Information-seeking behavior in travel
-
-#### 5.3 Tapping into wisdom of crowds
-
-### 6 PROPOSED SOLUTION
-
-### 7 CONCLUSION
-
-### 8 REFERENCES
-
+[Ilja A. Panic](http://iljapanic.me) ([@iljapanic](https://twitter.com/iljapanic))
 
 
 ## License
