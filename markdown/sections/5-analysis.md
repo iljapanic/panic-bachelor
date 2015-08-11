@@ -1,13 +1,13 @@
 ## 5. Analysis
 
-As stated in the outset of this paper, the tourism industry is one the most impacted by the recent rapid advances in the technology. The Internet increasingly mediates the travelling experience (Xiang, & Gretzel, 2010). While in the past the brands owned the sense of quality (Vanderbilt, 2015), now it is the digital word-of-mouth that decides where people go to eat, sleep and entertain themselves when on the road (Xiang, & Gretzel, 2010).
+As stated in the outset of this paper, the tourism industry has been one of  the most impacted by the proliferation of ubiquitous Internet access. The Internet technology increasingly mediates the traveling experience (Xiang, & Gretzel, 2010). While in the past the brands owned the sense of quality, now it is the digital word-of-mouth that decides where people go to eat, sleep and entertain themselves when on the road (Vanderbilt, 2015; Xiang, & Gretzel, 2010).
 
-This section starts off with examining current solution to the information problem posed by travelling and then moves onto a close analyses of information seeking behavior in this context.
-
-{>>identify problem->define objectives for a solution->design and development<<}
+The following analysis follows a DSRM as outlined in the previous section. It starts off by identifying a problem with the current solutions. Then it moves onto examining characteristics of a potential solution based on the information seeking behavior models identified in the conceptual framework. The analysis concludes with a proposed solution to an information problem posed by traveling.
 
 
 ### 5.1 Current solutions
+
+
 
 In this part of the analyses, the current solutions for information seeking support are analyzed. Before moving onto the examination of the individual services, here is a list of abbreviations used in this part of the paper:
 
@@ -50,7 +50,23 @@ In this part of the analyses, the current solutions for information seeking supp
 * economical constrains: budget
 
 
-### 5.3 Tapping into wisdom of crowds
+### 5.3 Proposed Solution
+
+- humans are still best curators, not algorithms, therefore the focus is on people creating lists of locations, referred to as guides
+- a guide, representing a list of locations, as information item representing local knowledge in an actionable form
+not menu driven
+- has to be available offline (each favorited/followed list automatically generates a map and info cards that are available offline)
+- private/shared/public lists
+- gamification, ranking systems
+
+- “Now and in the future, a goal of everyone involved with communicating information must be to move away from presenting text to generating information which leads to knowledge” (Albers, 2008, p. 122)
+- “to populate our information spaces with information artefacts that enable and encourage people to understand the activity space.” (Benyon, 2001, p. 429)
+
+
+
+
+
+#### Tapping into wisdom of crowds
 
 * trust building in a virtual environment (A12)
 * simplistic model of motivation (B3:92) -> works fairly well for traditional economy not so much information economy
@@ -58,3 +74,9 @@ In this part of the analyses, the current solutions for information seeking supp
 * local residents have implicit knowledge of surroundings
 * commons based peer production like Wikipedia
 
+
+#### Business Model
+
+- potential for monetization:
+	- charge companies to make accounts (sponsored lists), individual always free
+	- create an internal market, where companies motivate opinion leaders to mention them on their list
