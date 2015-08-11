@@ -2,14 +2,20 @@
 
 As stated in the outset of this paper, the tourism industry has been one of  the most impacted by the proliferation of ubiquitous Internet access. The Internet technology increasingly mediates the traveling experience (Xiang, & Gretzel, 2010). While in the past the brands owned the sense of quality, now it is the digital word-of-mouth that decides where people go to eat, sleep and entertain themselves when on the road (Vanderbilt, 2015; Xiang, & Gretzel, 2010).
 
-The following analysis follows a DSRM as outlined in the previous section. It starts off by identifying a problem with the current solutions. Then it moves onto examining characteristics of a potential solution based on the information seeking behavior models identified in the conceptual framework. The analysis concludes with a proposed solution to an information problem posed by traveling.
+To guide the analysis, the following research question has been devised (as stated in the Introduction). 
+
+*How to provide travelers with location-based information through harnessing collective knowledge of local residents?* 
+
+The following analysis follows a DSRM as outlined in the previous section. It starts off by identifying a problem with the current solutions. Then it moves onto examining characteristics of a potential solution based on the  models identified in the conceptual framework. The analysis concludes with a proposed solution to an information problem posed by traveling.
 
 
 ### 5.1 Current solutions
 
+There is no shortage of services and tools that claim to help travelers find useful information, and provide an insight into a local culture. However, from the collected data it was apparent that there are only a few dominant services that people use when they are traveling somewhere. Following is a 
 
 
-In this part of the analyses, the current solutions for information seeking support are analyzed. Before moving onto the examination of the individual services, here is a list of abbreviations used in this part of the paper:
+
+Before moving onto the examination of the individual services, here is a list of abbreviations used in this part of the paper:
 
 - **T2T** - traveler to traveler
 - **T2L** - traveler to local
