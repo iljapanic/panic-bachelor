@@ -11,7 +11,7 @@ Design and development. Creating an artefact which can take various forms. Conce
 The stages relevant for the purposes of this paper are highlighted in Figure 9, together with a problem-centered point of entry.
 
 <figure>
-	<img src="../figures/figure-10.png" alt="" title="DSRM Process Model. Adapted and modified from Peffers et al. (2007)">
+	<img src="./figures/figure-10.png" alt="" title="DSRM Process Model. Adapted and modified from Peffers et al. (2007)">
 	<figcaption><b>DSRM Process Model. Model with a highlighted area of interest and point of entry. Adapted and modified from Peffers et al. (2007)</b></figcaption>
 </figure>
 

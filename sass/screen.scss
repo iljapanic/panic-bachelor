@@ -17,10 +17,6 @@ body {
 		font-size: 12pt;
 		line-height: 1.5;
 	}
-	 counter-increment: page;
-    @top-right {
-        content: counter(page);
-    }
 }
 
 @media screen {
@@ -57,7 +53,6 @@ figcaption {
 	counter-increment: figures;
 	font-weight: bold;
 }
-
 
 
 figcaption:before {
