@@ -13,6 +13,6 @@ This paper examines the latest approaches to the design of human-centered inform
 
 Traveling is an information-intense industry, and has been one of the most impacted industries by the massive proliferation of the Internet and social media in the last decade (Xiang, & Gretzel, 2010). Therefore, it was chosen as a suitable area of interest for this research. Moreover, this choice was motivated by the author’s own personal experience in finding and sharing relevant travel information, coupled with a long-term desire to design and develop a platform that would mediate a more authentic traveling experience. To guide the investigation, the following research question has been devised:
 
-*How to provide travelers with location-based information through harnessing collective knowledge of local residents?*
+*How to provide travelers with location-based information through harnessing collective knowledge of local residents by applying principles of information design?* 
 
 The paper starts off by positioning itself in the multidisciplinary field of information management. Then it goes into examining the terminology and concepts used in the analysis by applying the latest perspectives for the design of human-centered information systems. Following this examination, the methodology and the research design of this paper are presented, followed by the analysis with a proposal for a possible solution to the information problem at hand. The paper concludes with a summary of the key findings.

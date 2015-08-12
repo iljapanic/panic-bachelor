@@ -19,7 +19,7 @@ The growing realization of the inadequacy of HCI to cope with increasingly infor
 
 
 
-### 3.1 Terminology goulash
+### 3.1 Terminology
 As mentioned earlier, there is quite a bit of conceptual confusion and a lack of consensus surrounding many of the terms central to the study of IM, and the various disciplines it encompasses. The word “information” is understood differently if one is an engineer developing a new enterprise intranet, than if one is a communications expert analyzing a political debate on television. One sees it as a resource existing independent of the human mind, while the other sees it purely as product of human interaction. The following is a rough delineation of some of the key terms used throughout the paper and how they are understood for the purposes of this research.
 
 #### Data ####
