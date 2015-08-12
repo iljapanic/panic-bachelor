@@ -6,24 +6,16 @@ To guide the analysis, the following research question has been devised (as stat
 
 *How to provide travelers with location-based information through harnessing collective knowledge of local residents?* 
 
-The following analysis follows a DSRM as outlined in the previous section. It starts off by identifying a problem with the current solutions. Then it moves onto examining characteristics of a potential solution based on the  models identified in the conceptual framework. The analysis concludes with a proposed solution to an information problem posed by traveling.
+The following analysis follows a DSRM as outlined in the previous section. It starts off by identifying a problem with the current solutions. Then it moves onto examining characteristics of a potential solution based on the models identified in the conceptual framework. The analysis concludes by proposing a solution to the information problem posed by traveling.
 
 
 ### 5.1 Current solutions
 
-There is no shortage of services and tools that claim to help travelers find useful information, and provide an insight into a local culture. However, from the collected data it was apparent that there are only a few dominant services that people use when they are traveling somewhere. Following is a 
+There is no shortage of services and tools that claim to help travelers find useful information, and provide an insight into a local culture. However, from the collected data it was apparent that there are only a few prevalent source of information that people use when they are visiting a foreign country. Following is an analysis of some of those services, together with others deemed suitable by the author.
+
+#### Paper guidebooks
 
 
-
-Before moving onto the examination of the individual services, here is a list of abbreviations used in this part of the paper:
-
-- **T2T** - traveler to traveler
-- **T2L** - traveler to local
-- **L2T** - local to traveler
-- **B2T** - business to traveler
-- **T2B** - traveler to business
-
-**Paper guidebook (B2T)**
 
 * gets outdated quickly
 * strong bias (business paying to be featured)

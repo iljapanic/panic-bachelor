@@ -1,6 +1,8 @@
 # panic-bachelor
 
-This is an experiment in writing a bachelor project using [Markdown](http://daringfireball.net/projects/markdown/). The idea is to create a platform-independent format for academic papers using openly available tools. Hopefully creating a sustainable pattern for academic writing that is compatible with the Web, while staying entirely focused on the writing.
+This is an experiment in writing a bachelor project using [Markdown](http://daringfireball.net/projects/markdown/), creating a platform-independent format for academic papers using openly available tools. 
+
+The idea is to create a sustainable pattern for academic writing that is compatible with the Web, while staying entirely focused on the writing experience using your favorite distraction-free editor.
 
 This is a living document. Expect things to be added and deleted abruptly. Who knows, you may even live long enough to see a finished, well-documented project one day.
 

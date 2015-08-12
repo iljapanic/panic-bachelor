@@ -1,2 +1,2 @@
 #! /bin/sh
-prince index.html -o final-output.pdf
+prince index.html -o paper-final.pdf
