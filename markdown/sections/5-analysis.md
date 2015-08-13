@@ -1,5 +1,5 @@
 ## 5. Analysis
-As stated in the outset of this paper, the tourism industry has been one of  the most impacted by the proliferation of ubiquitous Internet access. The Internet technology increasingly mediates the traveling experience (Xiang, & Gretzel, 2010). While in the past the brands and travel agencies owned the sense of quality, now it is the digital word-of-mouth that decides where people go to eat, sleep and entertain themselves when on the road (Vanderbilt, 2015; Xiang, & Gretzel, 2010).
+As stated in the outset of this paper, the tourism industry has been one of  the most impacted by the proliferation of ubiquitous Internet access. The Internet technology increasingly mediates the traveling experience by creating an online tourism information space – a collection of hyper textual content available for travel information searchers (Xiang, & Gretzel, 2010). While in the past the brands and travel agencies owned the sense of quality, now it is the digital word-of-mouth that decides where people go to eat, sleep and entertain themselves when on the road (Vanderbilt, 2015; Xiang, & Gretzel, 2010).
 
 To guide the analysis, the following research question has been devised (as stated in the Introduction). 
 
@@ -66,58 +66,25 @@ The most high-level needs are the cognitive needs. Arguably, these needs are eve
 
 **Other factors**
 
-In the model Wilson also stresses the importance of various environmental, contextual, personal, and interpersonal factors that affect people’s information behavior. Travelers face many constrains both prior, and after traveling to a foreign country. The most obvious ones are environmental constrains. Time of the year, weather, 
-
-
-
-
-* environmental constraints: time of the year, weather, physical access
-* economical constrains: budget, ppl indicated they are looking for cheap places
-* kids friendly - social constraints
-
-
-the takeaway is that the proposed solution needs to accommodate a variety of themes and different way of categorizing and 
-
-
+In the model Wilson also stresses the importance of various environmental, contextual, personal, and interpersonal factors that affect people’s information behavior. Travelers face many constrains both prior, and after traveling to a foreign country. The most important are environmental constrains. Travelers base their key travel-related decisions on the time of the year, weather, or physical distance from their home. Economical constrains are also very important. Many respondents mentioned that they are interested in information regarding price levels. Some explicitly indicated interest in cheap places and moneysaving options. For some travelers socio-cultural environment plays an important role as well. Some people might prefer to travel to places that are culturally similar to their home country. While some people might choose to explore different cultures and look for information that would give them such opportunity. Person's current social role is also a key factor in determining what types of travel-related information they are looking for. For example, some of the respondents mentioned that when they are traveling they look for kid-friendly destinations. In this case a parent role significantly influences the information seeking behavior. The broad scope of the factors presented here signifies that the proposed IS solution should provide different ways of categorization.
 
 
 ### 5.3 Proposed Information System Solution
+This sub-section offers a low-level conceptualization of an information system based on the analysis presented so far. Given the early stage of the design process, many details are omitted. In this early phase the main goal is to establish a set of overarching principles, which will guide future iterations and development. These principles stem from general human-centered design approaches, and more detailed examination of the information problems in a traveling context. 
 
+The solution is an online platform placed in an online tourism information space. This platform is populated with “information artefacts that enable and encourage people to understand the activity space” of travel (Benyon, 2001, p. 429). These information artefacts are referred to as “cards” and they contain personalized information about a specific location. Any user can create these cards, however they are primarily created by the local residents. Travelers than use a collection of those cards to gain insight and improve their knowledge of the destination they are traveling to. Users on the platform can also create lists that contain number of cards. These lists are referred to as “guides”. Other users on the platform can browse, bookmark, and comment on those guides or choose to copy only certain cards to their own lists.
 
-* address the human-scale
+Compared to existing solutions, the user is not presented with a predefined long list of locations that would impose a certain structure on them. Instead, a creator starts with a blank slate and enters locations manually one by one. This design decision is based on the assumption that the “best information environments do not automate away the human role” (Choo, 2002, p. 50). This eliminates the need for advanced algorithms and lets a more organic structure emerge. Users become the main curators and exclusive carriers of qualitative judgment on the platform. Unlike with current solutions where the underlying technology tries to come up with best recommendations based on arbitrary and biased algorithms.
 
-Despite the recent advances in the field of artificial intelligence, humans remain the best curators and interpreters of information (Choo, 2002).
+By letting everyone create their own cards from scratch, there will inevitably be numerous cards that are referring to the same location. From an engineering perspective this would be seen as duplicate content and would be considered ineffective and redundant. However, from an ecological perspective, this can be seen as a positive feature of the platform. It embraces variety and provides space for highly personal opinions that do not conform to homogeneous standards set by others.
 
-- qualitative judgment performed by humans and quantitative done by a machine 
+The proposed design also addresses the problem of human scale. Many of the current solutions are overwhelming and cause information overload. For example on TripAdvisor, it is common to have several thousand entries for large metropolitan areas. The concepts of guides on the other hand, makes the information easily digestible by always presenting information in isolated chunks, rather than an endless stream. This has an added benefit of inherently creating thematic categories for the platform with the mere act of creating a guide. Because everyone has certain set personality traits and interests, the guides created on the platform will always, to a greater or lesser degree, follow a certain theme. For example a person who enjoys jazz bars, may also frequent specific kind of cafes. If this person creates a guide, another jazz fan from a different country can use it to visit a jazz bar and have a relatively high chance that they will enjoy cafes listed in that guide.
 
+Despite the critique of screen-based interfaces presented earlier in the paper, the solution presented here is inherently bound to certain technologies. Currently, digital screens connected to the Internet are simply the most appropriate medium for conveying large amounts of information in an easily digestible form. By initiating the design with a low-level conceptualization informed by an ecological inquiry, the author hopes to mitigate some of the downsides of solutions based on the capabilities of the latest technology. Following are some of the key technical characteristics of the proposed platform:
 
-- “The best information environments do not automate away the human role” (Choo, 2002, p. 50)
+- The platform should be Web-based so it is accessible from a variety of operating systems and devices. Native applications are of secondary importance.
+- When using the platform on a desktop computer, user has to be able to freely reorganize and order their guides and cards.
+- When using the platform on a smartphone, the user has to be able to download guides for offline use because data plans abroad are too expensive for most people.
+-  Creators of the guide have to be able to set the privacy of their guides to either private, privately shared, or public.
+-  Creators have to be able to disable comments on their guides.
 
-- humans are still best curators, not algorithms, therefore the focus is on people creating lists of locations, referred to as guides
-- a guide, representing a list of locations, as information item representing local knowledge in an actionable form
-not menu driven
-- has to be available offline (each favorited/followed list automatically generates a map and info cards that are available offline)
-- private/shared/public lists
-- gamification, ranking systems
-
-- “Now and in the future, a goal of everyone involved with communicating information must be to move away from presenting text to generating information which leads to knowledge” (Albers, 2008, p. 122)
-- “to populate our information spaces with information artefacts that enable and encourage people to understand the activity space.” (Benyon, 2001, p. 429)
-
-
-
-
-
-#### Tapping into wisdom of crowds
-
-* trust building in a virtual environment (A12)
-* simplistic model of motivation (B3:92) -> works fairly well for traditional economy not so much information economy
-* social production
-* local residents have implicit knowledge of surroundings
-* commons based peer production like Wikipedia
-
-
-#### Business Model
-
-- potential for monetization:
-	- charge companies to make accounts (sponsored lists), individual always free
-	- create an internal market, where companies motivate opinion leaders to mention them on their list

@@ -1,4 +1,4 @@
-## 8. References
+## 7. References
 
 Albers, M. J. (2008). Human-information Interaction. In *Proceedings of the 26th Annual ACM International Conference on Design of Communication* (pp. 117–124). New York, NY: ACM.
 
