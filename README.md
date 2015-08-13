@@ -6,7 +6,7 @@ The idea is to create a sustainable pattern for academic writing that is compati
 
 This is a living document. Expect things to be added and deleted abruptly. Who knows, maybe one day you will come here and see a well-documented repository.
 
-If you have any questions, or comments (both to writing and code) don't hesitate to [get in touch with me](http://iljapanic.me).
+If you have any questions, or comments (both to writing and code) don't hesitate to [get in touch with the author](http://iljapanic.me).
 
 
 ## Dependencies
