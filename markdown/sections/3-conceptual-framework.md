@@ -122,30 +122,21 @@ These new and evolving approaches to design signal an industry-wide paradigm shi
 Information design represents a “philosophical shift of privileging the human's interaction with the information, rather the human's interaction with the computer interface” (Albers, 2008, p. 117). It challenges menu-driven interactions (Cooley, 2000), and calls for a more context-specific information systems (Fidel, 2012). The focus is on edification, the process of personal enlightenment. It is a bottom-up approach in which “information designers seek to edify more than persuade, to exchange ideas rather than foist them on us” (Jacobson, 2000, p. 1). The proposed solution presented later in the paper strives to adhere to these principles of information design.
 
 
-
 ### 3.3 Relevant models
 Models in HII research can be divided into three main categories: descriptive, process, and complex. Descriptive models take a form of a simple diagram or a list, as their function is to merely list “the factors and activities involved in the aspects of information behaviour being considered” (Bawden, & Robinson, 2012, p. 193). Process models introduce a certain causality to the study of information behavior by showing an order of phenomena occurring. They are often represented as flow-charts or process diagrams and are the most commonly used category (Bawden, & Robinson, 2012). The most advanced models “introduce a greater degree of context and an increased number of perspectives, and are typically non-linear or multidirectional, rather than having a single sequence of steps” (Bawden, & Robinson, 2012, p. 197). These complex models capture more of the complexity of information behavior, but they are also much harder to apply in a reasonable manner. Due to the scope of the project and lack of sufficient longitudinal data, this paper utilizes the simpler process models while acknowledging the lower explanatory power of applying these models.
 
-The problem-based nature of the information-seeking behavior fits well with the notion of sense-making—a term commonly encountered in the literature on HCI and HII. It is “framed as the process of forming and working with meaningful representations in order to facilitate insight and subsequent intelligent action” (Pirolli, & Russell, 2011, p. 1). It cannot be seen simply as a model of information-seeking behavior, but it is, rather, a set of assumptions, theoretical perspectives, and methodological approaches which serve as an overall framework for the study of how people interpret, and make sense of the world around them (Wilson, 1999). This paper utilizes the Dervin’s Sense-Making theory as conceptualized by Wilson (1999), and is illustrated in Figure 7. A situation is set in time and space, and defines the context in which information problem arises. A gap is defined by uncertainty and represents the difference between the contextual situation and the desired situation. An outcome is the consequence of the Sense-Making process. A bridge is a means of closing the gap between situation and outcome (Wilson, 1999).
+The problem-based nature of the information-seeking behavior fits well with the notion of sense-making—a term commonly encountered in the literature on HCI and HII. It is “framed as the process of forming and working with meaningful representations in order to facilitate insight and subsequent intelligent action” (Pirolli, & Russell, 2011, p. 1). It cannot be seen simply as a model of information-seeking behavior, but it is, rather, a set of assumptions, theoretical perspectives, and methodological approaches which serve as an overall framework for the study of how people interpret, and make sense of the world around them (Wilson, 1999).
 
+The first model in the analysis utilizes the Dervin’s Sense-Making framework as conceptualized by Wilson (1999), and is illustrated in Figure 7. A situation is set in time and space, and defines the context in which information problem arises. A gap is defined by uncertainty and represents the difference between the contextual situation and the desired situation. An outcome is the consequence of the Sense-Making process. A bridge is a means of closing the gap between situation and outcome (Wilson, 1999).
 
 <figure>
 	<img src="./figures/figure-7.png" alt="" title="Dervin’s Sense-Making framework. Adapted from Wilson (1999)">
 	<figcaption><b>Dervin’s Sense-Making framework modified. Adapted from Wilson (1999)</b></figcaption>
 </figure>
 
-
-The first model used in the analysis is the “information needs and seeking” conceptualization as proposed by Wilson (2006), and illustrated in Figure 8. This model will be used to investigate the environmental, socio-psychological, and role-based constraints, and will set the actor in a broader context of travel. Information seeking is seen as a way to satisfy more primal needs.
+The second model used in the analysis is the “information needs and seeking” conceptualization as proposed by Wilson (2006), and illustrated in Figure 8. This model will be used infer information needs from more primal, human needs and to investigate the environmental, socio-psychological, and role-based constraints.
 
 <figure>
 	<img src="./figures/figure-8.jpg" alt="" title="Information needs and seeking. Adapted from Wilson (2006)">
 	<figcaption><b>Information needs and seeking. Adapted from Wilson (2006)</b></figcaption>
-</figure>
-
-Secondly, the “problem solving model of the information seeking and searching process” as proposed by Wilson (1999), and illustrated in Figure 9. This model moves closer to the human mind, and will be used to take a closer look at how an actor uses information to gradually lower uncertainty and reach a solution to a travel-related problem.
-
-
-<figure>
-	<img src="./figures/figure-9.png" alt="" title="A problem solving model of the information seeking and searching process. Adapted from Wilson (1999)">
-	<figcaption><b>A problem solving model of the information seeking and searching process. Adapted from Wilson (1999)</b></figcaption>
 </figure>
