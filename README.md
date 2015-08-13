@@ -4,7 +4,7 @@ This is an experiment in writing a bachelor project using [Markdown](http://dari
 
 The idea is to create a sustainable pattern for academic writing that is compatible with the Web, while staying entirely focused on the writing experience using your favorite distraction-free editor.
 
-This is a living document. Expect things to be added and deleted abruptly. Who knows, maybe one day you will wake up to see a well-documented repository.
+This is a living document. Expect things to be added and deleted abruptly. Who knows, maybe one day you will come here and see a well-documented repository.
 
 If you have any questions, or comments (both to writing and code) don't hesitate to [get in touch with me](http://iljapanic.me).
 
