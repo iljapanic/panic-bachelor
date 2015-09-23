@@ -206,24 +206,24 @@ h5.counter-reset {
 h6.counter-reset {
   counter-reset: subsubsubsubsection;
 }
- h1:not(.counter-skip):before {
-  content: ""  counter(section, decimal) "";
-}
- h2:not(.counter-skip):before {
-  content: ""  counter(section, decimal) '.' counter(subsection, decimal) "";
-}
- h3:not(.counter-skip):before {
-  content: ""  counter(section, decimal) '.' counter(subsection, decimal) '.' counter(subsubsection, decimal) "";
-}
- h4:not(.counter-skip):before {
-  content: ""  counter(section, decimal) '.' counter(subsection, decimal) '.' counter(subsubsection, decimal) '.' counter(subsubsection, decimal) "";
-}
- h5:not(.counter-skip):before {
-  content: ""  counter(section, decimal) '.' counter(subsection, decimal) '.' counter(subsubsection, decimal) '.' counter(subsubsection, decimal) '.' counter(subsubsubsection, decimal) "";
-}
- h6:not(.counter-skip):before {
-  content: ""  counter(section, decimal) '.' counter(subsection, decimal) '.' counter(subsubsection, decimal) '.' counter(subsubsection, decimal) '.' counter(subsubsubsection, decimal) '.' counter(subsubsubsubsection, decimal) "";
-}
+//  h1:not(.counter-skip):before {
+//   content: ""  counter(section, decimal) "";
+// }
+//  h2:not(.counter-skip):before {
+//   content: ""  counter(section, decimal) '.' counter(subsection, decimal) "";
+// }
+//  h3:not(.counter-skip):before {
+//   content: ""  counter(section, decimal) '.' counter(subsection, decimal) '.' counter(subsubsection, decimal) "";
+// }
+//  h4:not(.counter-skip):before {
+//   content: ""  counter(section, decimal) '.' counter(subsection, decimal) '.' counter(subsubsection, decimal) '.' counter(subsubsection, decimal) "";
+// }
+//  h5:not(.counter-skip):before {
+//   content: ""  counter(section, decimal) '.' counter(subsection, decimal) '.' counter(subsubsection, decimal) '.' counter(subsubsection, decimal) '.' counter(subsubsubsection, decimal) "";
+// }
+//  h6:not(.counter-skip):before {
+//   content: ""  counter(section, decimal) '.' counter(subsection, decimal) '.' counter(subsubsection, decimal) '.' counter(subsubsection, decimal) '.' counter(subsubsubsection, decimal) '.' counter(subsubsubsubsection, decimal) "";
+// }
 table {
   counter-increment: table;
 }
@@ -382,9 +382,9 @@ h2 {
 h1 {
   text-transform: uppercase;
 }
-h1:not(.counter-skip):before {
-  content: "" counter(section) ".";
-}
+// h1:not(.counter-skip):before {
+//   content: "" counter(section) ".";
+// }
 h1 + h2,
 h1 + * > h2:first-child {
   margin-top: 0;

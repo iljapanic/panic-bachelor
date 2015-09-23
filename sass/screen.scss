@@ -1,14 +1,9 @@
 @import 'pubCSS';
 
-
-// body {
-// 	counter-reset: page;
-// }
-
 body {
 	font-family: "garamond-premier-pro";
-	// font-size: 1.25em;
-	// page: main;
+	background-color: #FCFBE3;
+	counter-reset: figures;
 }
 
 @media print {
@@ -20,8 +15,7 @@ body {
 }
 
 @media screen {
-	p {
-
+	p, ul {
 		font-size: 1.45em;
 		line-height: 1.5;
 	}
@@ -32,15 +26,59 @@ article {
 	margin-left: auto;
 	margin-right: auto;
 	line-height: 1.5;
-	counter-reset: figures;
+}
+
+h1 {
+	text-align: center;
+	font-size: 1.5em;
+	font-family: "garamond-premier-pro";
+}
+
+.abstract {
+	margin: 3em auto 6em auto;
+}
+
+h2 {
+	margin-top: 2em;
+	font-size: 1.5em;
+	text-align: center;
+	font-family: "garamond-premier-pro";
+	text-transform: uppercase;
+}
+
+h3 {
+	font-size: 1.45em;
+	font-family: "garamond-premier-pro";
+	font-weight: bold;
+	font-style: normal;
+}
+
+h4 {
+	font-family: "garamond-premier-pro";
+	font-weight: bold;
+	font-style: normal;
+}
+
+blockquote {
+	padding-left: 1.5em;
+	border-left: 3px solid rgba(#aaa, 0.35);
+}
+
+blockquote div {
+	font-size: 1.25em;
 }
 
 img {
 	max-width: 100%;
 }
 
+ul {
+	margin-bottom: 1.5em;
+}
+
 figure {
 	text-align: center;
+	margin: 3em auto;
 }
 
 figure img {
@@ -53,7 +91,6 @@ figcaption {
 	counter-increment: figures;
 	font-weight: bold;
 }
-
 
 figcaption:before {
 	content: 'Figure ' counter(figures) '. ';
