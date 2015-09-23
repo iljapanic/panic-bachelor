@@ -1,6 +1,6 @@
 # panic-bachelor
 
-This is an experiment in writing a bachelor project using [Markdown](http://daringfireball.net/projects/markdown/), creating a platform-independent format for academic papers using openly available tools. 
+This is an experiment in writing a bachelor project using [Markdown](http://daringfireball.net/projects/markdown/) – creating a platform-independent format for academic writing using openly available tools. 
 
 The idea is to create a sustainable pattern for academic writing that is compatible with the Web, while staying entirely focused on the writing experience using your favorite distraction-free editor.
 
@@ -16,9 +16,18 @@ If you have any questions, or comments (both to writing and code) don't hesitate
 - [Pandoc](http://pandoc.org/) - generates Word document (sigh) from HTML
 
 
-## Table of Contents
 
-*Coming soon*
+## Paper information
+
+Title: *Going Beyond HCI: Information design for knowledge-sharing platforms in the context of travel*
+
+Page count: 37
+
+Institution: Copenhagen Business School
+
+Programme: BA Information Management
+
+Available to read at: [http://iljapanic.github.io/panic-bachelor](http://iljapanic.github.io/panic-bachelor)
 
 
 ## Author
