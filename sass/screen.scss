@@ -21,6 +21,10 @@ body {
 	}
 }
 
+p {
+	overflow: hidden;
+}
+
 article {
 	max-width: 960px;
 	margin-left: auto;
