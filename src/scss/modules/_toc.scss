@@ -1,0 +1,24 @@
+.toc {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  @include fontsize(theta, all);
+  font-kerning: normal;
+  letter-spacing: 0.05rem;
+  text-transform: uppercase;
+
+  a {
+    color: lighten($bodyColour, 20%);
+
+    &:hover {
+      color: $bodyColour;
+    }
+  }
+
+
+  @include breakpoint(break-3) {
+    position: fixed;
+    left: 2rem;
+    top: 25%;
+  }
+}

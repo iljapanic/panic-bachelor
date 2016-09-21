@@ -1,0 +1,22 @@
+// Header demo styles.
+// ---------------------------------------
+
+.header {
+  @include clearfix;
+
+  margin: 0 auto;
+  position: relative;
+  width: 96%;
+
+  @include breakpoint(break-3) {
+    @include maxwidth(2);
+  }
+}
+
+.header__image {
+  padding: 2rem 1rem;
+}
+
+.header__headline p {
+  @include fontsize(epsilon, all);
+}

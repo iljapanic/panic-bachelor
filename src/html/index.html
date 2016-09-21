@@ -1,0 +1,86 @@
+<!doctype html>
+<html class="no-js">
+<head>
+
+	{% include "_shared/head.html" %}
+
+</head>
+
+<body>
+
+	<!--[if lt IE 8]>
+		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+	<![endif]-->
+
+  <nav class="nav" role="navigation">
+    <ul class="toc">
+
+    </ul>
+  </nav>
+
+
+	<!-- MAIN -->
+	<main class="main" role="main">
+
+    <article class="article typeset">
+
+      <header class="header pad">
+        <h1>{{ site.description }}</h1>
+
+        <div class="header__image">
+          <img src="images/cover-photo.jpg" alt="Illustration photo of a hectic movement up and down the staircase" />
+        </div>
+
+        <div class="header__headline">
+          {% include "_text/abstract.html" %}
+        </div>
+      </header>
+
+      <section class="section">
+        {% include "_text/sections/1-introduction.html" %}
+      </section>
+
+      <section class="section">
+        {% include "_text/sections/2-research-domain.html" %}
+      </section>
+
+      <section class="section">
+        {% include "_text/sections/3-conceptual-framework.html" %}
+      </section>
+
+      <section class="section">
+        {% include "_text/sections/4-methodology.html" %}
+      </section>
+
+      <section class="section">
+        {% include "_text/sections/5-analysis.html" %}
+      </section>
+
+      <section class="section">
+        {% include "_text/sections/6-conclusion.html" %}
+      </section>
+
+      <section class="section">
+        {% include "_text/sections/7-references.html" %}
+      </section>
+
+    </article>
+
+	</main>
+	<!-- /MAIN  -->
+
+	<!-- FOOTER -->
+	{% include "_shared/footer.html" %}
+	<!-- /FOOTER  -->
+
+
+	<!-- JavaScript -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+	<script src="js/main.js"></script>
+
+	<!-- Google Analytics -->
+
+
+</body>
+</html>
