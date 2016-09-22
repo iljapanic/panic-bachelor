@@ -5,7 +5,9 @@
 @import 'sassline-base';
 
 // Import your project SCSS module partials.
+@import 'modules/article';
 @import 'modules/globals';
 @import 'modules/header';
 @import 'modules/footer';
+@import 'modules/main';
 @import 'modules/toc';

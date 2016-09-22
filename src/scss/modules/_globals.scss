@@ -7,22 +7,6 @@ body {
   overflow-x: hidden;
 }
 
-.section {
-  margin-top: 2rem;
-}
-
-.pad {
-  padding: 2rem 0;
-
-  @include breakpoint(break-1) {
-    padding: 3rem 0;
-  }
-
-  @include breakpoint(break-2) {
-    padding: 4rem 0;
-  }
-}
-
 img {
   -ms-interpolation-mode: bicubic;
   height: auto;
@@ -38,4 +22,20 @@ img {
 
 .button-align {
   @include baseline(zeta, $bodytype, 2, 2, all);
+}
+
+.pad {
+  padding: 2rem 0;
+
+  @include breakpoint(break-1) {
+    padding: 3rem 0;
+  }
+
+  @include breakpoint(break-2) {
+    padding: 4rem 0;
+  }
+}
+
+.ta-center {
+  text-align: center;
 }

@@ -1,7 +1,16 @@
 // Header demo styles.
 // ---------------------------------------
 
+
 .header {
+  background-color: darken($backgroundColour, 4%);
+
+  h2 {
+    text-align: center;
+  }
+}
+
+.header__inner {
   @include clearfix;
 
   margin: 0 auto;
@@ -15,8 +24,15 @@
 
 .header__image {
   padding: 2rem 1rem;
+
+  img {
+    border-radius: 0.15rem;
+  }
 }
 
-.header__headline p {
-  @include fontsize(epsilon, all);
+.meta {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }

@@ -1,0 +1,27 @@
+.main {
+
+  @include breakpoint(break-3) {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+    .main__nav {
+      position: relative;
+      width: percentage(3/12);
+
+      nav {
+
+      }
+    }
+
+    .main__body {
+      width: percentage(9/12);
+      padding-left: 4rem;
+
+      .section {
+        margin-left: 0;
+        margin-bottom: 2rem;
+      }
+    }
+  }
+}

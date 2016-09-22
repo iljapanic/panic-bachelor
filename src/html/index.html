@@ -6,35 +6,48 @@
 
 </head>
 
-<body>
+<body class="typeset">
 
 	<!--[if lt IE 8]>
 		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 	<![endif]-->
 
-  <nav class="nav" role="navigation">
-    <ul class="toc">
 
-    </ul>
-  </nav>
+  <!-- HEADER -->
+  <header class="header pad">
 
+    <article class="header__inner">
+      
+      <h1>{{ paper.title }}</h1>
+
+      <ul class="meta">
+        <li class="meta__author"><a href="{{ paper.author.url }}" target="_blank">{{ paper.author.name }}</a></li>
+        <li class="meta__organization">{{ paper.organization }}</li>
+      </ul>
+
+      <aside class="header__image">
+        <img src="images/cover-photo.jpg" alt="Illustration photo of a hectic movement up and down the staircase" />
+      </aside>
+
+      <section class="header__headline">
+        {% include "_text/abstract.html" %}
+      </section>
+    </article>
+
+  </header>
 
 	<!-- MAIN -->
-	<main class="main" role="main">
+	<main class="main pad" role="main">
 
-    <article class="article typeset">
+    <!-- MAIN__NAV -->
+    <nav class="main__nav" role="navigation">
+      <ul class="toc">
 
-      <header class="header pad">
-        <h1>{{ site.description }}</h1>
+      </ul>
+    </nav>
 
-        <div class="header__image">
-          <img src="images/cover-photo.jpg" alt="Illustration photo of a hectic movement up and down the staircase" />
-        </div>
-
-        <div class="header__headline">
-          {% include "_text/abstract.html" %}
-        </div>
-      </header>
+    <!-- MAIN__BODY -->
+    <article class="main__body">
 
       <section class="section">
         {% include "_text/sections/1-introduction.html" %}

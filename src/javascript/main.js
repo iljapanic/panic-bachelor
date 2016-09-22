@@ -36,17 +36,41 @@ $(document).ready(function () {
   }
   dynamicToc()
 
-  // REVEAL TOC ON SCROLL
-  function update () {
-    if ($(window).scrollTop() > 1600) {
-      $('.toc').animate({
-        'opacity': '1'
-      }, 300)
+  // TOC DYNAMIC CLASS
+  function setTocClass () {
+    var screenSize = $(window).width()
+    var tocElement = $('.toc')
+
+    if (screenSize < 1024) {
+      tocElement.removeClass('is-desktop')
+      tocElement.addClass('is-mobile')
     } else {
-      $('.toc').animate({
-        'opacity': '0'
-      }, 300)
+      tocElement.removeClass('is-mobile')
+      tocElement.addClass('is-desktop')
     }
   }
-  setInterval(update, 500)
+  setTocClass()
+
+  function updateTocClass () {
+    $(window).resize(function () {
+      console.log($(window).width)
+      setTocClass()
+    })
+  }
+  setInterval(updateTocClass, 1500)
+
+  // REVEAL TOC ON SCROLL
+  // function update () {
+  //   if ($(window).scrollTop() > 1600) {
+  //     $('.toc').animate({
+  //       'opacity': '1'
+  //     }, 300)
+  //   } else {
+  //     $('.toc').animate({
+  //       'opacity': '0'
+  //     }, 300)
+  //   }
+  // }
+  // setInterval(update, 500)
+
 })

@@ -3,5 +3,14 @@
     "title": "Going Beyond HCI",
     "author": "Ilja Panic",
     "description": "Going Beyond HCI: Information design for knowledge-sharing platforms and information-seeking behavior support in the context of travel"
+  },
+  
+  "paper": {
+    "title": "Going Beyond HCI: Information design for knowledge-sharing platforms and information-seeking behavior support in the context of travel",
+    "author": {
+      "name": "Ilja Panic",
+      "url": "http://iljapanic.me"
+    },
+    "organization": "Copenhagen Business School"
   }
 }
