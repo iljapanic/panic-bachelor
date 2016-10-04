@@ -27,7 +27,7 @@ Institution: Copenhagen Business School
 
 Programme: BA Information Management
 
-Available to read at: [http://iljapanic.github.io/panic-bachelor](http://iljapanic.github.io/panic-bachelor)
+Available to read at: [http://iljapanic.me/information-design](http://iljapanic.me/information-design/)
 
 
 ## Author
