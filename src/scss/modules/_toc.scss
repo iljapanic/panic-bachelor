@@ -7,22 +7,35 @@
   letter-spacing: 0.05rem;
   text-transform: uppercase;
 
-  a {
-    color: lighten($bodyColour, 20%);
+  a, a:focus {
+    background-image: none;
+    color: lighten($bodyColour, 30%);
+    font-weight: bold;
+    text-shadow: none;
 
     &:hover {
+      background-image: none;
       color: $bodyColour;
+      text-shadow: none;
     }
   }
 
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 0;
+    @include fontsize(iota, all);
 
-  @include breakpoint(break-3) {
-    // position: fixed;
-    // left: 2rem;
-    // top: 25%;
+    li {
+      margin-left: 0.5rem;
+      line-height: 2.5;
+    }
+
+    a, a:focus {
+      font-weight: normal;
+    }
   }
 }
-
 
 // dynamically added via jQuery
 .toc.is-mobile {
@@ -35,5 +48,4 @@
 .toc.is-desktop.is-fixed {
   position: fixed;
   top: 4rem;
-  left: 2rem;
 }

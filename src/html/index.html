@@ -26,10 +26,11 @@
       </ul>
 
       <aside class="header__image">
-        <img src="images/cover-photo.jpg" alt="Illustration photo of a hectic movement up and down the staircase" />
+        <img src="/images/cover-photo.jpg" alt="Illustration photo of a hectic movement up and down the staircase" />
       </aside>
 
       <section class="header__headline">
+        <h2 class="toc-ignore">Abstract</h2>
         {% include "_text/abstract.html" %}
       </section>
     </article>
@@ -41,9 +42,8 @@
 
     <!-- MAIN__NAV -->
     <nav class="main__nav" role="navigation">
-      <ul class="toc">
-
-      </ul>
+			<span class="visually-hidden">Jump to:</span>
+      <ul class="toc"></ul>
     </nav>
 
     <!-- MAIN__BODY -->
@@ -89,8 +89,9 @@
 
 	<!-- JavaScript -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
-	<script src="js/main.js"></script>
+  <script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.12.4.min.js"><\/script>')</script>
+  <script src="/assets/js/vendor/jquery.waypoints.min.js"></script>
+	<script src="/assets/js/main.js"></script>
 
 	<!-- Google Analytics -->
   <script>

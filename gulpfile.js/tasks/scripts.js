@@ -4,6 +4,7 @@ var browserSync = require('browser-sync')
 var gulp = require('gulp')
 var handleErrors = require('../lib/handleErrors')
 var path = require('path')
+var optimizejs = require('gulp-optimize-js')
 var uglify = require('gulp-uglify')
 
 var paths = {
@@ -13,6 +14,8 @@ var paths = {
 
 var scriptsTask = function () {
   return gulp.src(paths.src)
+    .pipe(optimizejs())
+    .on('error', handleErrors)
     .pipe(uglify())
     .on('error', handleErrors)
     .pipe(gulp.dest(paths.dest))

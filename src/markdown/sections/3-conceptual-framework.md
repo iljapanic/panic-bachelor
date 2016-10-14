@@ -19,7 +19,7 @@ The growing realization of the inadequacy of HCI to cope with increasingly infor
 </figure>
 
 
-### 3.1 Terminology
+### Terminology
 As mentioned earlier, there is quite a bit of conceptual confusion and a lack of consensus surrounding many of the terms central to the study of IM, and the various disciplines it encompasses. The word “information” is understood differently if one is an engineer developing a new enterprise intranet, than if one is a communications expert analyzing a political debate on television. One sees it as a resource existing independent of the human mind, while the other sees it purely as product of human interaction. The following is a rough delineation of some of the key terms used throughout the paper and how they are understood for the purposes of this research.
 
 #### Data ####
@@ -72,7 +72,7 @@ Much of the study of information-seeking behavior revolves around a single role 
 There are various terms used to describe a person interacting with an IS. Librarians call such people patrons. In the corporate context they are sometimes referred to as clients. Undoubtedly, the most widely used term is users. “All these terms include only those who actually use a system and ignore potential users who may also benefit from using it” (Fidel, 2012, p. 4). On the other hand, the term actor implies a sense of agency and shifts the focus from the system to the participant, who has an existence outside of the information system. It highlights the importance of HII taking place in a context(s) of activities. Furthermore, this conceptualization forces us to also consider the nonusers, who may be reluctant to use an IS because their information needs have not been satisfied (Fidel, 2012). The term user is occasionally used throughout the paper to avoid clumsy wording, but generally actor is the preferred term.
 
 
-### 3.2 Design meets information
+### Design meets information
 
 >*“Overload, clutter, and confusion are not attributes of information, they are failures of design.”*
 ><div style="text-align:right">– Tufte, from an interview in Carmichael, 2011</div>
@@ -121,7 +121,7 @@ These new and evolving approaches to design signal an industry-wide paradigm shi
 Information design represents a “philosophical shift of privileging the human's interaction with the information, rather the human's interaction with the computer interface” (Albers, 2008, p. 117). It challenges menu-driven interactions (Cooley, 2000), and calls for a more context-specific information systems (Fidel, 2012). The focus is on edification, the process of personal enlightenment. It is a bottom-up approach in which “information designers seek to edify more than persuade, to exchange ideas rather than foist them on us” (Jacobson, 2000, p. 1). The proposed solution presented later in the paper strives to adhere to these principles of information design.
 
 
-### 3.3 Relevant models
+### Relevant models
 Models in HII research can be divided into three main categories: descriptive, process, and complex. Descriptive models take a form of a simple diagram or a list, as their function is to merely list “the factors and activities involved in the aspects of information behaviour being considered” (Bawden, & Robinson, 2012, p. 193). Process models introduce a certain causality to the study of information behavior by showing an order of phenomena occurring. They are often represented as flow-charts or process diagrams and are the most commonly used category (Bawden, & Robinson, 2012). The most advanced models “introduce a greater degree of context and an increased number of perspectives, and are typically non-linear or multidirectional, rather than having a single sequence of steps” (Bawden, & Robinson, 2012, p. 197). These complex models capture more of the complexity of information behavior, but they are also much harder to apply in a reasonable manner. Due to the scope of the project and lack of sufficient longitudinal data, this paper utilizes the simpler process models while acknowledging the lower explanatory power of applying these models.
 
 The problem-based nature of the information-seeking behavior fits well with the notion of sense-making—a term commonly encountered in the literature on HCI and HII. It is “framed as the process of forming and working with meaningful representations in order to facilitate insight and subsequent intelligent action” (Pirolli, & Russell, 2011, p. 1). It cannot be seen simply as a model of information-seeking behavior, but it is, rather, a set of assumptions, theoretical perspectives, and methodological approaches which serve as an overall framework for the study of how people interpret, and make sense of the world around them (Wilson, 1999).

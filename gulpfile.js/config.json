@@ -14,16 +14,16 @@
 
     "css": {
       "src": "scss",
-      "dest": "css",
+      "dest": "assets/css",
       "autoprefixer": {
-        "browsers": ["last 3 version"]
+        "browsers": ["last 6 version"]
       },
       "extensions": ["sass", "scss", "css"]
     },
 
     "fonts" : {
       "src": "fonts",
-      "dest": "fonts"
+      "dest": "assets/fonts"
     },
 
     "html": {
@@ -57,7 +57,7 @@
 
     "scripts": {
       "src": "javascript",
-      "dest": "js",
+      "dest": "assets/js",
       "extensions": ["js","jsx"]
     }
   }
