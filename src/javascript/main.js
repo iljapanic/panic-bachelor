@@ -40,8 +40,6 @@ $(document).ready(function () {
         })
       })
 
-      console.log(subheadingsArray)
-
       var subheadingsItems = $.map(subheadingsArray, function (value) {
         return ('<li><a href=\"#' + value.link + '\">' + value.title + '</a></li>')
       }).join('')
