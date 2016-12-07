@@ -34,7 +34,7 @@ Information is a product of human interaction with data and that “part of an i
 Knowledge can be broadly described as “that which people know and is accumulated through understanding, interpreting, analysing and making meaning of what is experienced and observed, as well what others have communicated” (Myburgh, 2005, p. 22). It is derived from both data and information, dependent on personality and intellect. Therefore, everyone possesses a highly personal unique body of knowledge that resides inside his or her head. Every knowledge management system is inherently trying to separate knowledge from the mind to a greater or lesser degree. Management studies in particular have grown fond of the notion of the tacit knowledge, popularized by Nonaka (1991). This view argues that an organization can tap into hidden knowledge in the heads of the organizational members by devising appropriate methods and processes to translate tacit knowledge into explicit knowledge that can be communicated to the rest of the organization. This again suggests a rather system-centric view, where knowledge is treated as a commodity to be captured, codified, and seen primarily as an organizational asset. In the tradition of Polanyi (Tsoukas, 2003), this paper treats knowledge as something highly situated and entirely ineffable. It cannot be transmitted, only information about the knowledge can, and “that information can only ever be an incomplete surrogate for the knowledge” (Wilson, 2000, p. 50). When a person interacts with information and uses it to solve a problem or achieve a specific goal, knowledge can also be seen as information in action (Hughes, 2002). The concept of wisdom is beyond the scope of this paper, and is regarded as a highest form of knowledge that has accumulated over a long period, and is impossible to communicate.
 
 <figure>
-	<img src="/images/figures/figure-2.gif" alt="" title="The Understanding Spectrum. Adapted from Shedroff (2000)">
+	<img src="./images/figures/figure-2.gif" alt="" title="The Understanding Spectrum. Adapted from Shedroff (2000)">
 	<figcaption>The Understanding Spectrum. Illustration of the relationships between the key terms. Adapted from Shedroff (2000)</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Wilson described information behavior as “the totality of human behavior in re
 Human processing of information is not seen as a static input-output process, but rather as a continuous act of sense-making which “focuses on how people understand information they receive within their life context, with factors such as the person’s expertise, social position, and situation affecting their understanding” (Fidel, 2012, p. 59). As information behavior as a research area is too broad, this paper has chosen a subset of information-seeking behaviour, which is concerned with the information needs, as a primary area of research, as illustrated in Figure 3.  Information search behavior is “the ‘micro-level’ of behavior employed by the searcher in interacting with information systems of all kinds” (Wilson, 2000, p. 49). It focuses on the interaction with the system on both the interface, and the intellectual level and is implicitly contained within the term information-seeking behaviour.
 
 <figure>
-	<img src="/images/figures/figure-3.jpg" alt="" title="A nested model of the information seeking and information searching research areas. Adapted and modified from Wilson (1999)">
+	<img src="./images/figures/figure-3.jpg" alt="" title="A nested model of the information seeking and information searching research areas. Adapted and modified from Wilson (1999)">
 	<figcaption>A nested model of the information seeking and information searching research areas. Shading added by the author to highlight the area of interest. Adapted and modified from Wilson (1999)</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Human processing of information is not seen as a static input-output process, bu
 Information need is a secondary human need that arises out of more basic, primal needs (Wilson, 1999). In the problem-based view, information is seen as a tool that people use to cross a barrier they encounter when they try to achieve something, such as obtaining food, finding shelter, satisfying their curiosity. Here the information need is defined by uncertainty and an “actor’s realization that she misses something that is required to move from one situation to another” (Fidel, 2012, p. 176). Wilson (2006) suggests that the term information need implies a concrete entity residing in an actor’s mind, and the goal of a researcher is to simply figure out what these needs are. Assumingly, this simplistic conceptualization of information needs is the reason behind a relatively low effectiveness of traditional consumer research in terms of figuring out the actual desires of people (Gócza, n.d.). Wilson goes on to suggest that instead we speak of “information seeking towards the satisfaction of needs” which sees the “full range of human, personal needs […] at the root of motivation towards information-seeking behavior” (Wilson, 2006, p. 665). This perspective suggests a more complex interplay of human mind, context, social setting, and environmental constraints (see Figure 4). Information needs are then seen as being an abstract concept in a constant state of flux, always changing depending on the current context, broader socio-psychological state, and the current role of the information user.
 
 <figure>
-	<img src="/images/figures/figure-4.png" alt="" title="Wilson’s model of information-seeking behaviour. Adapted from Wilson (1999)">
+	<img src="./images/figures/figure-4.png" alt="" title="Wilson’s model of information-seeking behaviour. Adapted from Wilson (1999)">
 	<figcaption>Wilson’s model of information-seeking behaviour. Adapted from Wilson (1999)</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ Much of the study of information-seeking behavior revolves around a single role 
 
 
 <figure>
-	<img src="/images/figures/figure-5.png" alt="" title="The context of information seeking. Adapted from Wilson (2006)
+	<img src="./images/figures/figure-5.png" alt="" title="The context of information seeking. Adapted from Wilson (2006)
 ">
 	<figcaption>The context of information seeking. Illustrates a variety of overlapping contexts when using a single information system, arrows show some of the possible search paths. Adapted from Wilson (2006)</figcaption>
 </figure>
@@ -129,13 +129,13 @@ The problem-based nature of the information-seeking behavior fits well with the 
 The first model in the analysis utilizes the Dervin’s Sense-Making framework as conceptualized by Wilson (1999), and is illustrated in Figure 7. A situation is set in time and space, and defines the context in which information problem arises. A gap is defined by uncertainty and represents the difference between the contextual situation and the desired situation. An outcome is the consequence of the Sense-Making process. A bridge is a means of closing the gap between situation and outcome (Wilson, 1999).
 
 <figure>
-	<img src="/images/figures/figure-7.png" alt="" title="Dervin’s Sense-Making framework. Adapted from Wilson (1999)">
+	<img src="./images/figures/figure-7.png" alt="" title="Dervin’s Sense-Making framework. Adapted from Wilson (1999)">
 	<figcaption>Dervin’s Sense-Making framework modified. Adapted from Wilson (1999)</figcaption>
 </figure>
 
 The second model used in the analysis is the “information needs and seeking” conceptualization as proposed by Wilson (2006), and illustrated in Figure 8. This model will be used infer information needs from more primal, human needs and to investigate the environmental, socio-psychological, and role-based constraints.
 
 <figure>
-	<img src="/images/figures/figure-8.jpg" alt="" title="Information needs and seeking. Adapted from Wilson (2006)">
+	<img src="./images/figures/figure-8.jpg" alt="" title="Information needs and seeking. Adapted from Wilson (2006)">
 	<figcaption>Information needs and seeking. Adapted from Wilson (2006)</figcaption>
 </figure>

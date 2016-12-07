@@ -11,7 +11,7 @@ The pragmatic nature of research presented in this paper does not lend itself to
 The stages relevant for the purposes of this paper are highlighted in Figure 9, together with a problem-centered point of entry.
 
 <figure>
-	<img src="/images/figures/figure-10.png" alt="" title="DSRM Process Model. Adapted and modified from Peffers et al. (2007)">
+	<img src="./images/figures/figure-10.png" alt="" title="DSRM Process Model. Adapted and modified from Peffers et al. (2007)">
 	<figcaption>DSRM Process Model. Model with a highlighted area of interest and point of entry. Adapted and modified from Peffers et al. (2007)</figcaption>
 </figure>
 
