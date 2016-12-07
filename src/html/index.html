@@ -16,7 +16,7 @@
   <!-- HEADER -->
   <header class="header pad">
 
-    <article class="header__inner">
+    <div class="header__inner">
 
       <h1>{{ paper.title }}</h1>
 
@@ -25,15 +25,15 @@
         <li class="meta__organization">{{ paper.organization }}</li>
       </ul>
 
-      <aside class="header__image">
+      <div class="header__image">
         <img src="images/cover-photo.jpg" alt="Illustration photo of a hectic movement up and down the staircase" />
-      </aside>
+      </div>
 
-      <section class="header__headline">
+      <div class="header__headline">
         <h2 class="toc-ignore">Abstract</h2>
         {% include "_text/abstract.html" %}
-      </section>
-    </article>
+      </div>
+    </div>
 
   </header>
 
@@ -42,8 +42,25 @@
 
     <!-- MAIN__NAV -->
     <nav class="main__nav" role="navigation">
-			<span class="visually-hidden">Jump to:</span>
-      <ul class="toc"></ul>
+      <div class="toc">
+        <span class="visually-hidden">Jump to:</span>
+        <div class="toc__toggle">
+          <svg class="nc-icon glyph" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+            <g fill="#f8f2e3">
+              <circle cx="4" cy="4" r="3"/>
+              <circle cx="4" cy="12" r="3"/>
+              <circle cx="4" cy="20" r="3"/>
+              <path data-color="color-2" d="M9 3h14v2H9zM9 11h14v2H9zM9 19h14v2H9z"/>
+            </g>
+          </svg>
+        </div>
+        <div class="toc__close">
+          <svg class="nc-icon glyph" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+            <path fill="#262523" d="M22.7 4.3l-3-3c-.4-.4-1-.4-1.4 0L12 7.6 5.7 1.3c-.4-.4-1-.4-1.4 0l-3 3c-.4.4-.4 1 0 1.4L7.6 12l-6.3 6.3c-.4.4-.4 1 0 1.4l3 3c.4.4 1 .4 1.4 0l6.3-6.3 6.3 6.3c.2.2.5.3.7.3s.5-.1.7-.3l3-3c.4-.4.4-1 0-1.4L16.4 12l6.3-6.3c.4-.4.4-1 0-1.4z"/>
+          </svg>
+        </div>
+        <ul class="toc__list"></ul>
+      </div>
     </nav>
 
     <!-- MAIN__BODY -->

@@ -14,7 +14,7 @@ The growing realization of the inadequacy of HCI to cope with increasingly infor
 
 
 <figure>
-	<img src="/images/figures/figure-1.png" title="Fields involved in successful communication of technical information. Adapted from Albers (2008)">
+	<img src="./images/figures/figure-1.png" title="Fields involved in successful communication of technical information. Adapted from Albers (2008)">
 	<figcaption>Fields involved in successful communication of technical information.  Adapted from Albers (2008)</figcaption>
 </figure>
 

@@ -17,6 +17,9 @@ $(document).ready(function () {
 
   // DYNAMIC TABLE OF CONTENTS
   function dynamicToc () {
+    var tocElement = $('.toc')
+    var tocList = $('.toc__list')
+
     // add id to headings
     $('h2, h3').each(function (index, value) {
       var newId = $(this).text()
@@ -44,23 +47,21 @@ $(document).ready(function () {
         return ('<li><a href=\"#' + value.link + '\">' + value.title + '</a></li>')
       }).join('')
 
-      $('.toc').append(
-        '<li class=\"toc__item\">' +
-        '<a href=\"#' +
+      tocList.append(
+        '<li class=\"toc__item\">' + // level 2 item
+        '<a href=\"#' + // level 2 item-link
         headingId +
         '">' +
         headingContent +
-        '</a>' +
-        (subheadings.length > 0 ?
-          '<ul>' +
-          subheadingsItems +
-          '</ul>'
-          :
-          '<span class=\"visually-hidden\">no level 3 headings</span>'
+        '</a>' + // END level 2 item-link
+        (subheadings.length > 0 // level 3 conditional
+          ? '<ul>' + // level 3 list
+          subheadingsItems + // level 3 item
+          '</ul>' // END level 3 list
+          : '<span class=\"visually-hidden\">no level 3 headings</span>'
         ) +
-        '</li>'
+        '</li>' // END level 2 item
       )
-
     })
   }
   dynamicToc()
@@ -88,15 +89,30 @@ $(document).ready(function () {
   }
   setInterval(updateTocClass, 1500)
 
-
   // FIX TOC
   $('.main').waypoint(function (direction) {
-    // $('.toc').addClass('is-fixed')
+    var tocElement = $('.toc')
+
     if (direction === 'down') {
-      $('.toc').addClass('is-fixed')
+      tocElement.addClass('is-fixed')
     } else {
-      $('.toc').removeClass('is-fixed')
+      tocElement.removeClass('is-fixed')
     }
   })
 
+  // TOC TOGGLE
+  $('.toc__toggle').click(function () {
+    $('.toc__list, .toc__close').toggleClass('is-active')
+  })
+
+  $('.toc__close').click(function () {
+    $('.toc__list').removeClass('is-active')
+    $('.toc__close').removeClass('is-active')
+  })
+
+  $('.toc__list a').click(function () {
+    // alert('link in the .toc__list clicked!')
+    $('.toc__list').removeClass('is-active')
+    $('.toc__close').removeClass('is-active')
+  })
 })

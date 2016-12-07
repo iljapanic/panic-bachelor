@@ -1,4 +1,4 @@
-.toc {
+.toc ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -37,12 +37,85 @@
   }
 }
 
+.toc__toggle {
+  position: fixed;
+  bottom: 0.5rem;
+  left: 0.5rem;
+  display: inline-block;
+  background: darken($backgroundColour, 75%);
+  z-index: 1;
+  padding: 1.25rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+
+  svg {
+    vertical-align: middle;
+    fill: #f8f2e3;
+  }
+}
+
+
 // dynamically added via jQuery
 .toc.is-mobile {
+
+  .toc__list {
+    // display: none;
+  }
+
+  .toc__toggle,
+  .toc__close {
+    display: none;
+  }
+}
+
+.toc.is-mobile.is-fixed {
+  .toc__list {
+    display: none;
+  }
+
+  .toc__list.is-active {
+    display: block;
+    flex-wrap: wrap;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    background-color: $backgroundColour;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 1rem;
+    li {
+      margin-left: 0;
+      margin-top: 0.5rem;
+    }
+    li > ul {
+      margin-bottom: 2rem;
+    }
+  }
+
+  .toc__close.is-active {
+    display: block;
+    z-index: 2;
+    position: fixed;
+    bottom: 1rem;
+    left: 1.5rem;
+  }
+
+  .toc__toggle {
+    display: inline-block;
+  }
 }
 
 .toc.is-desktop {
   position: relative;
+
+  .toc__toggle,
+  .toc__close {
+    display: none;
+  }
 }
 
 .toc.is-desktop.is-fixed {
