@@ -3,6 +3,7 @@
   word-wrap: break-word;
   word-break: break-word;
   hyphens: auto;
+  background-color: $backgroundColour;
 
   @include breakpoint(break-3) {
     display: flex;
@@ -28,4 +29,8 @@
       }
     }
   }
+}
+
+.abstract {
+  // background-color: darken($backgroundColour, 4%);
 }

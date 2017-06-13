@@ -3,6 +3,7 @@
 
 // Setting root sizes and base styles.
 html {
+  background-color: lighten($backgroundColour, 4%);
   @include rootsize;
 
   -webkit-text-size-adjust: 100%;
@@ -11,7 +12,9 @@ html {
 
 // Site-wide base styles.
 body {
+  border-top: 4px solid white;
   @include fontsize(zeta, all);
+  background-color: $backgroundColour;
 
   font-family: unquote(map-get($bodytype, font-family));
   font-style: normal;
@@ -68,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 
 // Heading level 1.
 h1, .alpha {
-  @include sassline($fontsize: gamma, $font: $headingtype, $lineheight: 3, $below: 2, $breakpoint: all);
+  @include sassline($fontsize: zeta, $font: $headingtype, $lineheight: 3, $below: 2, $breakpoint: all);
   font-weight: map-get($headingtype, regular);
   // font-style: italic;
   text-align: center;

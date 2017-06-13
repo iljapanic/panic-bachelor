@@ -14,23 +14,44 @@
 
 
   <!-- HEADER -->
-  <header class="header pad">
+  <header class="header">
 
-    <div class="header__inner">
+    <div class="header__meta">
 
-      <h1>{{ paper.title }}</h1>
-
-      <ul class="meta">
-        <li class="meta__author"><a href="{{ paper.author.url }}" target="_blank">{{ paper.author.name }}</a></li>
-        <li class="meta__organization">{{ paper.organization }}</li>
-      </ul>
-      <div class="header__headline">
-        <h2 class="toc-ignore">Abstract</h2>
-        {% include "_text/abstract.html" %}
+      <div class="meta">
+        <table>
+          <tr>
+            <td>Title:</td>
+            <td>{{ paper.title }}</td>
+          </tr>
+          <tr>
+            <td>Author:</td>
+            <td><a href="{{ paper.author.url }}" target="_blank">{{ paper.author.name }}</a></td>
+          </tr>
+          <tr>
+            <td>Institution:</td>
+            <td>{{ paper.organization }}</td>
+          </tr>
+          <tr>
+            <td>Keywords:</td>
+            <td>{{ paper.keywords }}</td>
+          </tr>
+          <tr>
+            <td>Abstract:</td>
+            <td>{{ paper.abstract }}</td>
+          </tr>
+        </table>
       </div>
+
+      <!-- <div class="toggle">
+        <span>Show all</span>
+      </div> -->
     </div>
 
+
   </header>
+
+
 
 	<!-- MAIN -->
 	<main class="main pad" role="main">

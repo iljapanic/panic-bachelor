@@ -3,11 +3,9 @@
 
 
 .header {
-  background-color: darken($backgroundColour, 4%);
+  position: relative;
+  // padding: 1.5rem 2rem;
 
-  h2 {
-    text-align: center;
-  }
 }
 
 .header__inner {
@@ -22,21 +20,75 @@
   }
 }
 
-.header__headline {
-  margin-top: 2rem;
-}
+$header-dark-border: 1px solid #bbb;
+$header-light-border: 1px solid lighten($backgroundColour, 4%);
 
-.header__image {
-  padding: 2rem 1rem;
+.header__meta {
 
-  img {
-    border-radius: 0.15rem;
+  .meta {
+    background-color: white;
+    overflow: hidden;
+    padding: 1rem 1rem;
+    @include breakpoint(break-3) {
+      padding: 2rem 4rem;
+    }
+  }
+
+  .toggle {
+    display: block;
+    text-align: right;
+    padding-right: 2rem;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+    border-top: $header-dark-border;
+
+    span {
+      background-color: white;
+      border-bottom-left-radius: 0.25rem;
+      border-bottom-right-radius: 0.25rem;
+      border: $header-dark-border;
+      border-top: $header-light-border;
+      cursor: pointer;
+      display: inline-block;
+      padding: 0 0.5rem;
+      position: relative;
+      text-transform: uppercase;
+      top: -1px;
+      z-index: 10;
+      @include fontsize(16, all);
+    }
   }
 }
 
 .meta {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  text-align: center;
+
+  td {
+    vertical-align: top;
+    padding-bottom: 0.5rem;
+    line-height: 2;
+    display: block;
+
+    @include breakpoint(break-3) {
+      display: table-cell;
+    }
+  }
+
+  tr td:nth-of-type(1) {
+    font-weight: bold;
+
+    @include breakpoint(break-3) {
+      text-align: right;
+    }
+  }
+
+  tr td:nth-of-type(2) {
+    padding-left: 1rem;
+    font-style: italic;
+    padding-bottom: 1.5rem;
+    @include breakpoint(break-3) {
+      padding-left: 2rem;
+      padding-bottom: 0.5rem;
+    }
+  }
 }

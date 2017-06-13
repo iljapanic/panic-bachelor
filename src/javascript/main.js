@@ -1,4 +1,21 @@
 $(document).ready(function () {
+
+  var headerMeta = $('.meta')
+  var headerToggle = $('.toggle')
+
+  // headerMeta.toggle($.cookie('showTop') != 'collapsed');
+  //   headerToggle.click(function() {
+  //     $(this).toggleClass('active').prev('.meta').toggle();
+  //     var new_value = headerMeta.is(':visible') ? 'expanded' : 'collapsed';
+  //     $.cookie('showTop', new_value);
+  //   });
+
+  // headerMeta.hide()
+
+  headerToggle.click(function () {
+    headerMeta.slideToggle();
+  })
+
   // SMOOTH SCROLL
   $(function () {
     $('a[href*="#"]:not([href="#"])').click(function () {
@@ -115,4 +132,5 @@ $(document).ready(function () {
     $('.toc__list').removeClass('is-active')
     $('.toc__close').removeClass('is-active')
   })
-})
+
+});
