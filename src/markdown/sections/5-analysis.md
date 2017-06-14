@@ -88,3 +88,8 @@ Despite the critique of screen-based interfaces presented earlier in the paper, 
 - When using the platform on a smartphone, the user has to be able to download guides for offline use because data plans abroad are too expensive for most people.
 -  Creators of the guide have to be able to set the privacy of their guides to either private, privately shared, or public.
 -  Creators have to be able to disable comments on their guides.
+
+<figure>
+  <img src="./images/figures/figure-11.png" alt="" title="Information architecture of the proposed solution">
+  <figcaption>Information architecture of the proposed solution</figcaption>
+</figure>
